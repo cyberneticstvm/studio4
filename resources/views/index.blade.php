@@ -7,7 +7,7 @@
         <div class="swiper-container parallax-slider">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <div class="bg-img valign" data-background="img/slid/1.jpg" data-overlay-dark="6">
+                    <div class="bg-img valign" data-background="{{ public_path().'/img/slid/1.jpg' }}" data-overlay-dark="6">
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-10 offset-lg-1">
