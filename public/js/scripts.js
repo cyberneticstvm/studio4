@@ -28,12 +28,12 @@ $(function () {
         if (bodyScroll > 300) {
 
             navbar.addClass("nav-scroll");
-            logo.attr('src', 'img/logo-dark.png');
+            logo.attr('src', '/img/logo-dark.png');
 
         } else {
 
             navbar.removeClass("nav-scroll");
-            logo.attr('src', 'img/logo-white.png');
+            logo.attr('src', '/img/logo-white.png');
         }
     });
 
