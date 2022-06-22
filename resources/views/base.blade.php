@@ -15,7 +15,7 @@
     <title>Studio1 Creators</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="{{ public_path().'/img/favicon.ico' }}" />
+    <link rel="shortcut icon" href="{{ public_path().'/img/favicon.png' }}" />
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
@@ -70,7 +70,7 @@
 
             <!-- Logo -->
             <a class="logo" href="#">
-                <img src="img/logo-light.png" alt="logo">
+                <img src="{{ public_path().'/img/logo-white.png' }}" alt="logo">
             </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -81,31 +81,18 @@
             <!-- navbar links -->
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button"
-                            aria-haspopup="true" aria-expanded="false">Home</a>
-                        <div class="dropdown-menu">
-                            <a class="dropdown-item" href="index.html">Main Home</a>
-                            <a class="dropdown-item" href="index3.html">Architecture</a>
-                            <a class="dropdown-item" href="index2.html">Interior Design</a>
-                        </div>
-                    </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="about.html">About</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="portfolio-mas2.html">Portfolio</a>
+                        <a class="nav-link" href="/">Home</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button"
-                            aria-haspopup="true" aria-expanded="false">Blog</a>
+                            aria-haspopup="true" aria-expanded="false">Our Projects</a>
                         <div class="dropdown-menu">
-                            <a class="dropdown-item" href="blog.html">Blogs</a>
-                            <a class="dropdown-item" href="blog-details.html">Post Details</a>
+                            <a class="dropdown-item" href="/projects/interior/">Interior Design</a>
+                            <a class="dropdown-item" href="/projects/architectural/">Architectural Design</a>
+                            <a class="dropdown-item" href="/projects/landscape/">Landscape</a>
+                            <a class="dropdown-item" href="/projects/fitout/">Fitout Services</a>
                         </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Contact</a>
                     </li>
                 </ul>
                 <div class="social-icon">
@@ -113,7 +100,7 @@
                     <a href="#0"><i class="fab fa-twitter"></i></a>
                     <a href="#0"><i class="fab fa-behance"></i></a>
                 </div>
-                <div class="search">
+                <!--<div class="search">
                     <span class="icon pe-7s-search cursor-pointer"></span>
                     <div class="search-form text-center custom-font">
                         <form>
@@ -121,7 +108,7 @@
                         </form>
                         <span class="close pe-7s-close cursor-pointer"></span>
                     </div>
-                </div>
+                </div>-->
             </div>
         </div>
     </nav>
@@ -139,10 +126,10 @@
                     <div class="item abot">
                         <div class="logo-footer mb-20">
                             <a href="#0" class="logo">
-                                <img src="img/logo-light.png" alt="">
+                                <img src="{{ public_path().'/img/logo-white.png' }}" alt="">
                             </a>
                         </div>
-                        <p>Our team takes over everything, from an idea and concept development to realization.</p>
+                        <p class="text-justify">Studio1 Creators are recognized as a leading professional providing excellent service for all types of interior architecture and architectural design projects, well established in the United Arab Emirates, our services extend throughout the GCC region. We are in the business of designing spaces by understanding and providing solutions that consider cost, time and quality - ensuring every project is of the highest quality.</p>
                         <div class="social-icon">
                             <a href="#0"><i class="fab fa-facebook-f"></i></a>
                             <a href="#0"><i class="fab fa-twitter"></i></a>
@@ -157,10 +144,12 @@
                             <h6>Useful Links</h6>
                         </div>
                         <ul>
-                            <li><i class="fas fa-chevron-right"></i> <a href="#0">Interior Design</a></li>
-                            <li><i class="fas fa-chevron-right"></i> <a href="#0">Design Agency</a></li>
-                            <li><i class="fas fa-chevron-right"></i> <a href="#0">Mattress Shop</a></li>
-                            <li><i class="fas fa-chevron-right"></i> <a href="#0">Contact Us</a></li>
+                            <li><i class="fas fa-chevron-right"></i> <a href="/about/">About Us</a></li>
+                            <li><i class="fas fa-chevron-right"></i> <a href="/projects/interior/">Interior Design</a></li>
+                            <li><i class="fas fa-chevron-right"></i> <a href="/projects/architectural/">Architectural</a></li>
+                            <li><i class="fas fa-chevron-right"></i> <a href="/projects/landscape/">Landscape</a></li>
+                            <li><i class="fas fa-chevron-right"></i> <a href="/projects/fitout/">Fitout Services</a></li>
+                            <li><i class="fas fa-chevron-right"></i> <a href="/contact/">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>
@@ -169,8 +158,7 @@
                         <div class="fothead">
                             <h6>Call</h6>
                         </div>
-                        <p>+7(111)123456789</p>
-                        <p>+1(000)987654321</p>
+                        <p>+971 507569914</p>
                     </div>
                 </div>
                 <div class="col-lg-2">
@@ -178,8 +166,7 @@
                         <div class="fothead">
                             <h6>Write</h6>
                         </div>
-                        <p>contact@Archo.com</p>
-                        <p>Username@website.com</p>
+                        <p>info@studio1creators.com</p>
                     </div>
                 </div>
                 <div class="col-lg-2">
@@ -187,8 +174,10 @@
                         <div class="fothead">
                             <h6>Visit</h6>
                         </div>
-                        <p>B17 Princess Road, London, Greater London
-                            NW18JR, United Kingdom</p>
+                        <p>Studio1 Creators<br>Technical Services LLC</p>
+                        <p>Office No. 1502<br> City Tower-2,</p>
+                        <p>Sheikh Zayed Road, <br>Dubai, UAE.</p>
+                        <p>P.O.Box - 15473</p>
                     </div>
                 </div>
             </div>
@@ -198,12 +187,12 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <div class="text-left">
-                            <p>© 2020, Archo Template. Made with passion by <a href="https://themeforest.net/user/ui-themez">UI-ThemeZ</a>.</p>
+                            <p>© {{ date('Y') }}, Studio1 Creators.</p>
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="text-right">
-                            <p>All right reserved.</p>
+                            <p>All rights reserved.</p>
                         </div>
                     </div>
                 </div>
@@ -227,9 +216,6 @@
 
     <!-- custom scripts -->
     <script src="{{ public_path().'/js/scripts.js' }}"></script>
-
-    <!-- Map -->
-    <script src="{{ public_path().'/js/map.js' }}"></script>
 
     <!-- google map api -->
     <script async defer
