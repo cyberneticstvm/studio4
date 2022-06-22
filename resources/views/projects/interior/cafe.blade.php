@@ -1,63 +1,35 @@
 @extends("base")
 
 @section("content")
-
-<header class="slider">
-        <div class="swiper-container parallax-slider">
-            <div class="swiper-wrapper">
-                <div class="swiper-slide">
-                    <div class="bg-img valign" data-background="{{ public_path().'/img/portfolio/interior/gal1.webp' }}" data-overlay-dark="6">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-lg-10 offset-lg-1">
-                                    <div class="caption hmone">
-                                        <h5 class="thin custom-font">Interior Design</h5>
-                                        <h1 data-splitting><a href="#0">Cafe</a>
-                                        </h1>
-                                        <!--<p class="mt-10">Right design and right ideas matter a lot of in interior design
-                                            business. <br> a style that makes a statement.</p>
-                                        <a href="#0" class="btn-curve btn-bord btn-lit mt-30">
-                                            <span>Read More</span>
-                                        </a>-->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="bg-img valign" data-background="{{ public_path().'/img/portfolio/interior/gal1/img1.webp' }}" data-overlay-dark="5">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-lg-10 offset-lg-1">
-                                    <div class="caption hmone">
-                                        <h5 class="thin custom-font">Interior Design</h5>
-                                        <h1 data-splitting><a href="#0">Cafe</a>
-                                        </h1>
-                                        <!--<p class="mt-10">Right design and right ideas matter a lot of in interior design
-                                            business. <br> a style that makes a statement.</p>
-                                        <a href="#0" class="btn-curve btn-bord btn-lit mt-30">
-                                            <span>Read More</span>
-                                        </a>-->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+<header class="pages-header bg-img valign parallaxie" data-background="{{ public_path().'/img/portfolio/project1/bg.jpg' }}" data-overlay-dark="5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="cont text-center">
+                    <h1>Cafe</h1>
+                    <div class="path">
+                        <a href="#0">Home</a><span>/</span><a href="#0">Our Projects</a><span>/</span><a href="#0" class="active">Interior Design</a>
                     </div>
                 </div>
             </div>
-
-            <!-- slider setting -->
-            <div class="setone">
-                <div class="swiper-button-next swiper-nav-ctrl next-ctrl">
-                    <i class="fas fa-chevron-right"></i>
-                </div>
-                <div class="swiper-button-prev swiper-nav-ctrl prev-ctrl">
-                    <i class="fas fa-chevron-left"></i>
-                </div>
-            </div>
-            <div class="swiper-pagination top custom-font"></div>
         </div>
-    </header>
+    </div>
+</header>
+<section class="projdtal">
+    <div class="justified-gallery">
+        <a href="{{ public_path().'/img/portfolio/project1/1.jpg' }}">
+            <img alt="" src="{{ public_path().'/img/portfolio/project1/1.jpg' }}" />
+        </a>
+        <a href="{{ public_path().'/img/portfolio/project1/2.jpg' }}">
+            <img alt="" src="{{ public_path().'/img/portfolio/project1/2.jpg' }}" />
+        </a>
 
+        <a href="{{ public_path().'/img/portfolio/project1/6.jpg' }}">
+            <img alt="" src="{{ public_path().'/img/portfolio/project1/6.jpg' }}" />
+        </a>
+        <a href="{{ public_path().'/img/portfolio/project1/3.jpg' }}">
+            <img alt="" src="{{ public_path().'/img/portfolio/project1/3.jpg' }}" />
+        </a>
+    </div>
+</section>
 @endsection("content")

@@ -27,6 +27,8 @@
     <!-- Plugins -->
     <link rel="stylesheet" href="{{ public_path().'/css/plugins.css' }}" />
 
+    <link href="{{ public_path().'/css/twentytwenty.css' }}" rel="stylesheet" type="text/css" />
+
     <!-- Core Style Css -->
     <link rel="stylesheet" href="{{ public_path().'/css/style.css' }}" />
 
@@ -94,15 +96,8 @@
                             <a class="dropdown-item" href="/projects/fitout/">Fitout Services</a>
                         </div>
                     </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button"
-                            aria-haspopup="true" aria-expanded="false">Our Portfolios</a>
-                        <div class="dropdown-menu">
-                            <a class="dropdown-item" href="/projects/interior/">Interior Design</a>
-                            <a class="dropdown-item" href="/projects/architectural/">Architectural Design</a>
-                            <a class="dropdown-item" href="/projects/landscape/">Landscape</a>
-                            <a class="dropdown-item" href="/projects/fitout/">Fitout Services</a>
-                        </div>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Our Portfolio</a>
                     </li>
                 </ul>
                 <div class="social-icon">

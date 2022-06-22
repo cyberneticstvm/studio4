@@ -995,7 +995,7 @@ body {
   background: #02050b; }
 
 [data-overlay-light]:before {
-  background: #fff; }
+  background: #000; }
 
 [data-overlay-dark] h1,
 [data-overlay-dark] h2,
