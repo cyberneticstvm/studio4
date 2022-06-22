@@ -235,7 +235,7 @@
 
                 <!-- filter links -->
                 <div class="filtering text-center col-12 wow fadeInUp" data-wow-delay=".3s">
-                    <div class="filter bg-img bg-repeat" data-background="img/line-pattern1.png">
+                    <div class="filter bg-img bg-repeat" data-background="{{ public_path().'/img/line-pattern1.png' }}">
                         <span data-filter='*' class="active">All</span>
                         <span data-filter='.interior'>Interior</span>
                         <span data-filter='.arch'>Architectural</span>
@@ -249,7 +249,7 @@
 
                     <!-- gallery item -->
                     <div class="items interior mt-50 wow fadeInUp" data-wow-delay=".3s">
-                        <div class="item-img bg-img wow imago" data-background="img/portfolio/mas/01.jpg">
+                        <div class="item-img bg-img wow imago" data-background="{{ public_path().'/img/portfolio/mas/01.jpg' }}">
                             <a href="#0">
                                 <div class="item-img-overlay"></div>
                             </a>
@@ -262,7 +262,7 @@
 
                     <!-- gallery item -->
                     <div class="items arch mt-50 wow fadeInUp" data-wow-delay=".3s">
-                        <div class="item-img bg-img wow imago" data-background="img/portfolio/mas/02.jpg">
+                        <div class="item-img bg-img wow imago" data-background="{{ public_path().'/img/portfolio/mas/02.jpg' }}">
                             <a href="#0">
                                 <div class="item-img-overlay valign"></div>
                             </a>
@@ -275,7 +275,7 @@
 
                     <!-- gallery item -->
                     <div class="items land mt-50 wow fadeInUp" data-wow-delay=".3s">
-                        <div class="item-img bg-img wow imago" data-background="img/portfolio/mas/03.jpg">
+                        <div class="item-img bg-img wow imago" data-background="{{ public_path().'/img/portfolio/mas/03.jpg' }}">
                             <a href="#0">
                                 <div class="item-img-overlay valign"></div>
                             </a>
@@ -288,7 +288,7 @@
 
                     <!-- gallery item -->
                     <div class="items fit theaters mt-50 wow fadeInUp" data-wow-delay=".3s">
-                        <div class="item-img bg-img wow imago" data-background="img/portfolio/mas/04.jpg">
+                        <div class="item-img bg-img wow imago" data-background="{{ public_path().'/img/portfolio/mas/04.jpg' }}">
                             <a href="#0">
                                 <div class="item-img-overlay valign"></div>
                             </a>

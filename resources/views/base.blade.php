@@ -94,6 +94,16 @@
                             <a class="dropdown-item" href="/projects/fitout/">Fitout Services</a>
                         </div>
                     </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button"
+                            aria-haspopup="true" aria-expanded="false">Our Portfolios</a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="/projects/interior/">Interior Design</a>
+                            <a class="dropdown-item" href="/projects/architectural/">Architectural Design</a>
+                            <a class="dropdown-item" href="/projects/landscape/">Landscape</a>
+                            <a class="dropdown-item" href="/projects/fitout/">Fitout Services</a>
+                        </div>
+                    </li>
                 </ul>
                 <div class="social-icon">
                     <a href="#0"><i class="fab fa-facebook-f"></i></a>
