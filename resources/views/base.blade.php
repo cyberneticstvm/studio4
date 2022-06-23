@@ -161,7 +161,7 @@
                         <div class="fothead">
                             <h6>Call</h6>
                         </div>
-                        <p>+971 507569914</p>
+                        <p>+971 506525592</p>
                     </div>
                 </div>
                 <div class="col-lg-2">

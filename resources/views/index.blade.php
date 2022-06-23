@@ -13,12 +13,11 @@
                                 <div class="col-lg-10 offset-lg-1">
                                     <div class="caption hmone">
                                         <h5 class="thin custom-font">Interior</h5>
-                                        <h1 data-splitting><a href="#0">Design</a>
+                                        <h1 data-splitting><a href="/projects/interior/">Design</a>
                                         </h1>
-                                        <p class="mt-10">Right design and right ideas matter a lot of in interior design
-                                            business. <br> a style that makes a statement.</p>
-                                        <a href="#0" class="btn-curve btn-bord btn-lit mt-30">
-                                            <span>Read More</span>
+                                        <p class="mt-10">We are professionals to explore a wide set of ideas and also create a shared vision <br>to move forward within a short amount of time. </p>
+                                        <a href="/projects/interior/" class="btn-curve btn-bord btn-lit mt-30">
+                                            <span>View More</span>
                                         </a>
                                     </div>
                                 </div>
@@ -33,13 +32,12 @@
                                 <div class="col-lg-10 offset-lg-1">
                                     <div class="caption hmone">
                                         <h5 class="thin custom-font">Architectural</h5>
-                                        <h1 data-splitting><a href="#0">
+                                        <h1 data-splitting><a href="/projects/architectural/">
                                                 Design
                                             </a></h1>
-                                        <p class="mt-10">Right design and right ideas matter a lot of in interior design
-                                            business. <br> a style that makes a statement.</p>
-                                        <a href="#0" class="btn-curve btn-bord btn-lit mt-30">
-                                            <span>Read More</span>
+                                        <p class="mt-10">Architecture should speak of its time and place, but yearn for timelessness. <br>Our team put effort to accomplish it.</p>
+                                        <a href="/projects/architectural/" class="btn-curve btn-bord btn-lit mt-30">
+                                            <span>View More</span>
                                         </a>
                                     </div>
                                 </div>
@@ -54,14 +52,13 @@
                                 <div class="col-lg-10 offset-lg-1">
                                     <div class="caption hmone">
                                         <h5 class="thin custom-font">Landscape</h5>
-                                        <h1 data-splitting><a href="#0">
+                                        <h1 data-splitting><a href="/projects/landscape/">
                                                 Design
                                             </a>
                                         </h1>
-                                        <p class="mt-10">Right design and right ideas matter a lot of in interior design
-                                            business. <br> a style that makes a statement.</p>
-                                        <a href="#0" class="btn-curve btn-bord btn-lit mt-30">
-                                            <span>Read More</span>
+                                        <p class="mt-10">In this trendy world we remain classic but focus on the detailing and fulfill your <br>modern contemporary design which shows the aestheticism.</p>
+                                        <a href="/projects/landscape/" class="btn-curve btn-bord btn-lit mt-30">
+                                            <span>View More</span>
                                         </a>
                                     </div>
                                 </div>
@@ -76,13 +73,12 @@
                                 <div class="col-lg-10 offset-lg-1">
                                     <div class="caption hmone">
                                         <h5 class="thin custom-font">Fitout</h5>
-                                        <h1 data-splitting><a href="#0">
+                                        <h1 data-splitting><a href="/projects/fitout/">
                                                 Services
                                             </a></h1>
-                                        <p class="mt-10">Right design and right ideas matter a lot of in interior design
-                                            business. <br> a style that makes a statement.</p>
-                                        <a href="#0" class="btn-curve btn-bord btn-lit mt-30">
-                                            <span>Read More</span>
+                                        <p class="mt-10">Design is intelligence made visible that creates value faster than costs.</p>
+                                        <a href="/projects/fitout/" class="btn-curve btn-bord btn-lit mt-30">
+                                            <span>View More</span>
                                         </a>
                                     </div>
                                 </div>
@@ -132,9 +128,7 @@
                     <div class="exp-content wow fadeInUp" data-wow-delay=".3s">
                         <h6 class="sub-title">About Us</h6>
                         <h2 class="mb-20 playfont">Best Designers <br> Architectures for You.</h2>
-                        <p>Architecture bibendum pharetra eleifend. Suspendisse vel volutpat purus, sit amet bibendum
-                            nisl. Cras mollis turpis a ipsum ultes, nec condimentum ipsum consequat. Mauris vitae
-                            consequat nibh, vitae interdum mi.</p>
+                        <p class="text-justify">Studio1 Creators are recognized as a leading professional providing excellent service for all types of interior architecture and architectural design projects, well established in the United Arab Emirates, our services extend throughout the GCC region. We are in the business of designing spaces by understanding and providing solutions that consider cost, time and quality - ensuring every project is of the highest quality.</p>
                         <div class="numbers mt-50">
                             <div class="row">
                                 <div class="col-md-4">
@@ -184,29 +178,29 @@
                 <div class="col-lg-3 col-md-6 item-bx">
                     <h2 class="custom-font numb">01</h2>
                     <h6 class="mb-20 text-info">Interior</h6>
-                    <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
-                    <a href="#0" class="more custom-font mt-30">Read More</a>
+                    <p class="text-justify">We are professionals to explore a wide set of ideas and also create a shared vision.</p>
+                    <a href="/projects/interior/" class="more custom-font mt-30">View More</a>
                 </div>
 
                 <div class="col-lg-3 col-md-6 item-bx">
                     <h2 class="custom-font numb">02</h2>
                     <h6 class="mb-20 text-info">Architectural</h6>
-                    <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
-                    <a href="#0" class="more custom-font mt-30">Read More</a>
+                    <p class="text-justify">Architecture should speak of its time and place, but yearn for timelessness. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                    <a href="/projects/architectural/" class="more custom-font mt-30">View More</a>
                 </div>
 
                 <div class="col-lg-3 col-md-6 item-bx">
                     <h2 class="custom-font numb">03</h2>
                     <h6 class="mb-20 text-info">Landscape</h6>
-                    <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
-                    <a href="#0" class="more custom-font mt-30">Read More</a>
+                    <p class="text-justify">In this trendy world we remain classic but focus on the detailing and fulfill your requirements.</p>
+                    <a href="/projects/landscape/" class="more custom-font mt-30">View More</a>
                 </div>
 
                 <div class="col-lg-3 col-md-6 item-bx">
                     <h2 class="custom-font numb">04</h2>
-                    <h6 class="mb-20 text-info">Fitouts</h6>
-                    <p>Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.</p>
-                    <a href="#0" class="more custom-font mt-30">Read More</a>
+                    <h6 class="mb-20 text-info">Fitout</h6>
+                    <p class="text-justify">Design is intelligence made visible that creates value faster than costs. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                    <a href="/projects/fitout/" class="more custom-font mt-30">View More</a>
                 </div>
 
             </div>
@@ -250,7 +244,7 @@
                     <!-- gallery item -->
                     <div class="items interior mt-50 wow fadeInUp" data-wow-delay=".3s">
                         <div class="item-img bg-img wow imago" data-background="{{ public_path().'/img/slid/interior.webp' }}">
-                            <a href="#0">
+                            <a href="/projects/interior/">
                                 <div class="item-img-overlay"></div>
                             </a>
                         </div>
@@ -263,7 +257,7 @@
                     <!-- gallery item -->
                     <div class="items arch mt-50 wow fadeInUp" data-wow-delay=".3s">
                         <div class="item-img bg-img wow imago" data-background="{{ public_path().'/img/slid/architecture.webp' }}">
-                            <a href="#0">
+                            <a href="/projects/architectural/">
                                 <div class="item-img-overlay valign"></div>
                             </a>
                         </div>
@@ -276,7 +270,7 @@
                     <!-- gallery item -->
                     <div class="items land mt-50 wow fadeInUp" data-wow-delay=".3s">
                         <div class="item-img bg-img wow imago" data-background="{{ public_path().'/img/slid/landscape.webp' }}">
-                            <a href="#0">
+                            <a href="/projects/landscape/">
                                 <div class="item-img-overlay valign"></div>
                             </a>
                         </div>
@@ -289,7 +283,7 @@
                     <!-- gallery item -->
                     <div class="items fit theaters mt-50 wow fadeInUp" data-wow-delay=".3s">
                         <div class="item-img bg-img wow imago" data-background="{{ public_path().'/img/slid/fitout.webp' }}">
-                            <a href="#0">
+                            <a href="/projects/fitout/">
                                 <div class="item-img-overlay valign"></div>
                             </a>
                         </div>
