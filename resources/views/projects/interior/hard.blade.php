@@ -110,6 +110,9 @@
         <a href="{{ public_path().'/img/portfolio/interior/gal1/31.jpg' }}">
             <img alt="" src="{{ public_path().'/img/portfolio/interior/gal1/31.jpg' }}" />
         </a>
+        <a href="{{ public_path().'/img/portfolio/interior/gal1/32.jpg' }}">
+            <img alt="" src="{{ public_path().'/img/portfolio/interior/gal1/32.jpg' }}" />
+        </a>
     </div>
 </section>
 @endsection("content")
