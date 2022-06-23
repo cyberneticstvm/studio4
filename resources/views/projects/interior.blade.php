@@ -1,12 +1,12 @@
 @extends("base")
 @section("content")
-<header class="pages-header work-header bg-img bg-dark valign" data-background="{{ public_path().'/img/009.png' }}" data-overlay-light="9">
+<header class="pages-header work-header bg-img bg-dark valign" data-background="{{ public_path().'/img/portfolio/interior/jvt-dubai.webp' }}" data-overlay-light="7">
     <div class="container">
         <div class="section-head text-center mb-0">
             <div class="row justify-content-center">
                 <div class="col-lg-7 col-md-9 col-sm-11">
                     <h6 class="custom-font">Our Projects</h6>
-                    <h4 class="playfont">Interior Designing</h4>
+                    <h4 class="playfont">Interior Design</h4>
                 </div>
             </div>
         </div>
@@ -31,7 +31,7 @@
 
                 <!-- gallery item -->
                 <div class="items hot three-column mt-50">
-                    <div class="item-img bg-img" data-background="{{ public_path().'/img/portfolio/interior/gal4.webp' }}">
+                    <div class="item-img bg-img" data-background="{{ public_path().'/img/portfolio/interior/jvt-dubai.webp' }}">
                         <a href="/projects/interior/hotel-and-residence-dubai/">
                             <div class="item-img-overlay valign"></div>
                         </a>
@@ -44,7 +44,7 @@
 
                 <!-- gallery item -->
                 <div class="items hot three-column mt-50">
-                    <div class="item-img bg-img" data-background="{{ public_path().'/img/portfolio/interior/gal3.webp' }}">
+                    <div class="item-img bg-img" data-background="{{ public_path().'/img/portfolio/interior/jvt-sharjah.webp' }}">
                         <a href="/projects/interior/hotel-and-residence-sharjah/">
                             <div class="item-img-overlay"></div>
                         </a>
@@ -57,7 +57,7 @@
 
                 <!-- gallery item -->
                 <div class="items interior hot three-column mt-50">
-                    <div class="item-img bg-img" data-background="{{ public_path().'/img/portfolio/interior/gal5.webp' }}">
+                    <div class="item-img bg-img" data-background="{{ public_path().'/img/portfolio/interior/marjan-island-rak.webp' }}">
                         <a href="/projects/interior/resort-and-spa/">
                             <div class="item-img-overlay valign"></div>
                         </a>
@@ -70,7 +70,7 @@
 
                 <!-- gallery item -->
                 <div class="items hos three-column mt-50">
-                    <div class="item-img bg-img" data-background="{{ public_path().'/img/portfolio/interior/gal2.webp' }}">
+                    <div class="item-img bg-img" data-background="{{ public_path().'/img/portfolio/interior/hospital.webp' }}">
                         <a href="/projects/interior/hospital/">
                             <div class="item-img-overlay"></div>
                         </a>
@@ -83,7 +83,7 @@
 
                 <!-- gallery item -->
                 <div class="items cafe three-column mt-50">
-                    <div class="item-img bg-img" data-background="{{ public_path().'/img/portfolio/interior/gal1.webp' }}">
+                    <div class="item-img bg-img" data-background="{{ public_path().'/img/portfolio/interior/cafe.webp' }}">
                         <a href="/projects/interior/cafe/">
                             <div class="item-img-overlay valign"></div>
                         </a>

@@ -7,13 +7,13 @@
         <div class="swiper-container parallax-slider">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <div class="bg-img valign" data-background="{{ public_path().'/img/slid/slider3.webp' }}" data-overlay-dark="6">
+                    <div class="bg-img valign" data-background="{{ public_path().'/img/slid/interior.webp' }}" data-overlay-dark="6">
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-10 offset-lg-1">
                                     <div class="caption hmone">
-                                        <h5 class="thin custom-font">Innovative</h5>
-                                        <h1 data-splitting><a href="#0">Architecture</a>
+                                        <h5 class="thin custom-font">Interior</h5>
+                                        <h1 data-splitting><a href="#0">Design</a>
                                         </h1>
                                         <p class="mt-10">Right design and right ideas matter a lot of in interior design
                                             business. <br> a style that makes a statement.</p>
@@ -27,14 +27,14 @@
                     </div>
                 </div>
                 <div class="swiper-slide">
-                    <div class="bg-img valign" data-background="{{ public_path().'/img/slid/slider2.webp' }}" data-overlay-dark="5">
+                    <div class="bg-img valign" data-background="{{ public_path().'/img/slid/architecture.webp' }}" data-overlay-dark="5">
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-10 offset-lg-1">
                                     <div class="caption hmone">
-                                        <h5 class="thin custom-font">Classic</h5>
+                                        <h5 class="thin custom-font">Architectural</h5>
                                         <h1 data-splitting><a href="#0">
-                                                and Modern
+                                                Design
                                             </a></h1>
                                         <p class="mt-10">Right design and right ideas matter a lot of in interior design
                                             business. <br> a style that makes a statement.</p>
@@ -48,14 +48,14 @@
                     </div>
                 </div>
                 <div class="swiper-slide">
-                    <div class="bg-img valign" data-background="{{ public_path().'/img/slid/slider1.webp' }}" data-overlay-dark="6">
+                    <div class="bg-img valign" data-background="{{ public_path().'/img/slid/landscape.webp' }}" data-overlay-dark="6">
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-10 offset-lg-1">
                                     <div class="caption hmone">
-                                        <h5 class="thin custom-font">Elegant &</h5>
+                                        <h5 class="thin custom-font">Landscape</h5>
                                         <h1 data-splitting><a href="#0">
-                                                Unique Design
+                                                Design
                                             </a>
                                         </h1>
                                         <p class="mt-10">Right design and right ideas matter a lot of in interior design
@@ -70,14 +70,14 @@
                     </div>
                 </div>
                 <div class="swiper-slide">
-                    <div class="bg-img valign" data-background="{{ public_path().'/img/slid/slider5.webp' }}" data-overlay-dark="5">
+                    <div class="bg-img valign" data-background="{{ public_path().'/img/slid/fitout.webp' }}" data-overlay-dark="5">
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-10 offset-lg-1">
                                     <div class="caption hmone">
-                                        <h5 class="thin custom-font">interior</h5>
+                                        <h5 class="thin custom-font">Fitout</h5>
                                         <h1 data-splitting><a href="#0">
-                                                design agency
+                                                Services
                                             </a></h1>
                                         <p class="mt-10">Right design and right ideas matter a lot of in interior design
                                             business. <br> a style that makes a statement.</p>
@@ -118,8 +118,8 @@
                     <div class="exp-img wow fadeInUp" data-wow-delay=".3s">
                         <div class="img bg-img wow imago" data-background="{{ public_path().'/img/exp02.jpg' }}">
                             <div class="since custom-font">
-                                <span>Since</span>
-                                <span>2020</span>
+                                <!--<span>Since</span>
+                                <span>2020</span>-->
                             </div>
                             <div class="years custom-font">
                                 <h2>STUDIO1</h2>
@@ -179,7 +179,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row bord-box bg-img wow fadeInUp" data-wow-delay=".3s" data-background="{{ public_path().'/img/slid/slider1.webp' }}">
+            <div class="row bord-box bg-img wow fadeInUp" data-wow-delay=".3s" data-background="{{ public_path().'/img/slid/fitout.webp' }}">
 
                 <div class="col-lg-3 col-md-6 item-bx">
                     <h2 class="custom-font numb">01</h2>
@@ -249,46 +249,46 @@
 
                     <!-- gallery item -->
                     <div class="items interior mt-50 wow fadeInUp" data-wow-delay=".3s">
-                        <div class="item-img bg-img wow imago" data-background="{{ public_path().'/img/portfolio/mas/01.jpg' }}">
+                        <div class="item-img bg-img wow imago" data-background="{{ public_path().'/img/slid/interior.webp' }}">
                             <a href="#0">
                                 <div class="item-img-overlay"></div>
                             </a>
                         </div>
                         <div class="info mt-10">
-                            <h5>Fantastic interior</h5>
+                            <h5>Villas, Hotels, Hospitals and Spa</h5>
                             <span>Interior Designing</span>
                         </div>
                     </div>
 
                     <!-- gallery item -->
                     <div class="items arch mt-50 wow fadeInUp" data-wow-delay=".3s">
-                        <div class="item-img bg-img wow imago" data-background="{{ public_path().'/img/portfolio/mas/02.jpg' }}">
+                        <div class="item-img bg-img wow imago" data-background="{{ public_path().'/img/slid/architecture.webp' }}">
                             <a href="#0">
                                 <div class="item-img-overlay valign"></div>
                             </a>
                         </div>
                         <div class="info mt-10">
-                            <h5>Choose Your Dream</h5>
+                            <h5>Hotels & Residence</h5>
                             <span>Architectural Designing</span>
                         </div>
                     </div>
 
                     <!-- gallery item -->
                     <div class="items land mt-50 wow fadeInUp" data-wow-delay=".3s">
-                        <div class="item-img bg-img wow imago" data-background="{{ public_path().'/img/portfolio/mas/03.jpg' }}">
+                        <div class="item-img bg-img wow imago" data-background="{{ public_path().'/img/slid/landscape.webp' }}">
                             <a href="#0">
                                 <div class="item-img-overlay valign"></div>
                             </a>
                         </div>
                         <div class="info mt-10">
-                            <h5>Luxury Villa</h5>
+                            <h5>Hotels & Parks</h5>
                             <span>Landsacape</span>
                         </div>
                     </div>
 
                     <!-- gallery item -->
                     <div class="items fit theaters mt-50 wow fadeInUp" data-wow-delay=".3s">
-                        <div class="item-img bg-img wow imago" data-background="{{ public_path().'/img/portfolio/mas/04.jpg' }}">
+                        <div class="item-img bg-img wow imago" data-background="{{ public_path().'/img/slid/fitout.webp' }}">
                             <a href="#0">
                                 <div class="item-img-overlay valign"></div>
                             </a>
