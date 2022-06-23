@@ -6,7 +6,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-7 col-md-9 col-sm-11">
                     <h6 class="custom-font">Our Projects</h6>
-                    <h4 class="playfont">Interior Design</h4>
+                    <h4 class="playfont">Architectural Design</h4>
                 </div>
             </div>
         </div>
