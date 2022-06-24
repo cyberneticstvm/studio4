@@ -35,9 +35,9 @@
         <a href="{{ public_path().'/img/portfolio/interior/gal2/6.jpg' }}">
             <img alt="" src="{{ public_path().'/img/portfolio/interior/gal2/6.jpg' }}" />
         </a>
-        <a href="{{ public_path().'/img/portfolio/interior/gal2/7.jpg' }}">
+        <!--<a href="{{ public_path().'/img/portfolio/interior/gal2/7.jpg' }}">
             <img alt="" src="{{ public_path().'/img/portfolio/interior/gal2/7.jpg' }}" />
-        </a>
+        </a>-->
         <a href="{{ public_path().'/img/portfolio/interior/gal2/8.jpeg' }}">
             <img alt="" src="{{ public_path().'/img/portfolio/interior/gal2/8.jpeg' }}" />
         </a>

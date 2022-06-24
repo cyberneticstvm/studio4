@@ -177,7 +177,7 @@
                         <div class="fothead">
                             <h6>Visit</h6>
                         </div>
-                        <p>Studio1 Creators<br>Technical Services LLC</p>
+                        <p>Studio1 Creators</p>
                         <p>Office No. 1502<br> City Tower-2,</p>
                         <p>Sheikh Zayed Road, <br>Dubai, UAE.</p>
                         <p>P.O.Box - 15473</p>
