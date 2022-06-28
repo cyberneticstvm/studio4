@@ -53,6 +53,9 @@ Route::get('/projects/interior/', function () {
 Route::get('/projects/interior/cafe/', function () {
     return view('projects.interior.cafe');
 });
+Route::get('/projects/interior/villa/', function () {
+    return view('projects.interior.villa');
+});
 Route::get('/projects/interior/hospital/', function () {
     return view('projects.interior.hospital');
 });

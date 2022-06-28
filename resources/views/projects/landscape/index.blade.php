@@ -1,6 +1,6 @@
 @extends("base")
 @section("content")
-<header class="pages-header work-header bg-img bg-dark valign" data-background="{{ public_path().'/img/portfolio/landscape/1.jpg' }}" data-overlay-light="7">
+<header class="pages-header work-header bg-img bg-dark valign" data-background="{{ public_path().'/img/portfolio/landscape/GAL5.webp' }}" data-overlay-light="7">
     <div class="container">
         <div class="section-head text-center mb-0">
             <div class="row justify-content-center">
@@ -27,7 +27,7 @@
             <div class="gallery twsty inf-lit full-width">
                 <!-- gallery item -->
                 <div class="items hot three-column mt-50">
-                    <div class="item-img bg-img" data-background="{{ public_path().'/img/portfolio/landscape/1.jpg' }}">
+                    <div class="item-img bg-img" data-background="{{ public_path().'/img/portfolio/landscape/GAL5.webp' }}">
                         <a href="/projects/landscape/gallery/">
                             <div class="item-img-overlay valign"></div>
                         </a>
