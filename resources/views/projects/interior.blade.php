@@ -23,6 +23,7 @@
                     <span data-filter='.hot'>Hotel & Residences</span>
                     <span data-filter='.hos'>Hospitals</span>
                     <span data-filter='.cafe'>Cafe</span>
+                    <span data-filter='.villa'>Villa</span>
                 </div>
             </div>
 
@@ -95,7 +96,7 @@
                 </div>
 
                 <!-- gallery item -->
-                <div class="items cafe three-column mt-50">
+                <div class="items villa three-column mt-50">
                     <div class="item-img bg-img" data-background="{{ public_path().'/img/portfolio/interior/gal6/GAL1.webp' }}">
                         <a href="/projects/interior/villa/">
                             <div class="item-img-overlay valign"></div>
