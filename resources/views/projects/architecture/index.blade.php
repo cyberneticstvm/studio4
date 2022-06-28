@@ -27,7 +27,7 @@
             <div class="gallery twsty inf-lit full-width">
                 <!-- gallery item -->
                 <div class="items hot three-column mt-50">
-                    <div class="item-img bg-img" data-background="{{ public_path().'/img/portfolio/architecture/GAL1.webp' }}">
+                    <div class="item-img bg-img" data-background="{{ public_path().'/img/portfolio/architecture/1.webp' }}">
                         <a href="/projects/architecture/gallery/">
                             <div class="item-img-overlay valign"></div>
                         </a>
