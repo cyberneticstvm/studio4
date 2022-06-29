@@ -84,7 +84,7 @@
 
                 <!-- gallery item -->
                 <div class="items cafe three-column mt-50">
-                    <div class="item-img bg-img" data-background="{{ public_path().'/img/portfolio/interior/gal5/GAL2.webp' }}">
+                    <div class="item-img bg-img" data-background="{{ public_path().'/img/portfolio/interior/gal5/GAL1.webp' }}">
                         <a href="/projects/interior/cafe/">
                             <div class="item-img-overlay valign"></div>
                         </a>

@@ -130,7 +130,7 @@
                         <h2 class="mb-20 playfont">Best Designers <br> Architectures for You.</h2>
                         <p class="text-justify">Studio1 Creators are recognized as a leading professional providing excellent service for all types of interior architecture and architectural design projects, well established in the United Arab Emirates, our services extend throughout the GCC region. We are in the business of designing spaces by understanding and providing solutions that consider cost, time and quality - ensuring every project is of the highest quality.</p>
                         <div class="numbers mt-50">
-                            <div class="row">
+                            <!--<div class="row">
                                 <div class="col-md-4">
                                     <div class="item">
                                         <h3><span class="nbr custom-font">50+</span></h3>
@@ -149,7 +149,7 @@
                                         <h6>Years</h6>
                                     </div>
                                 </div>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                 </div>
