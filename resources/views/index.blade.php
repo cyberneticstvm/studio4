@@ -12,8 +12,8 @@
                             <div class="row">
                                 <div class="col-lg-10 offset-lg-1">
                                     <div class="caption hmone">
-                                        <h5 class="thin custom-font">Interior</h5>
-                                        <h1 data-splitting><a href="/projects/interior/">Design</a>
+                                        <h5 class="thin custom-font">Studio1 Creators</h5>
+                                        <h1 data-splitting><a href="/projects/interior/">Interior Design</a>
                                         </h1>
                                         <p class="mt-10">We are professionals to explore a wide set of ideas and also create a shared vision <br>to move forward within a short amount of time. </p>
                                         <a href="/projects/interior/" class="btn-curve btn-bord btn-lit mt-30">
@@ -31,9 +31,9 @@
                             <div class="row">
                                 <div class="col-lg-10 offset-lg-1">
                                     <div class="caption hmone">
-                                        <h5 class="thin custom-font">Architectural</h5>
+                                        <h5 class="thin custom-font">Studio1 Creators</h5>
                                         <h1 data-splitting><a href="/projects/architectural/">
-                                                Design
+                                                Architectural Design
                                             </a></h1>
                                         <p class="mt-10">Architecture should speak of its time and place, but yearn for timelessness. <br>Our team put effort to accomplish it.</p>
                                         <a href="/projects/architectural/" class="btn-curve btn-bord btn-lit mt-30">
@@ -51,9 +51,9 @@
                             <div class="row">
                                 <div class="col-lg-10 offset-lg-1">
                                     <div class="caption hmone">
-                                        <h5 class="thin custom-font">Landscape</h5>
+                                        <h5 class="thin custom-font">Studio1 Creators</h5>
                                         <h1 data-splitting><a href="/projects/landscape/">
-                                                Design
+                                                Landscape Design
                                             </a>
                                         </h1>
                                         <p class="mt-10">In this trendy world we remain classic but focus on the detailing and fulfill your <br>modern contemporary design which shows the aestheticism.</p>
@@ -72,9 +72,9 @@
                             <div class="row">
                                 <div class="col-lg-10 offset-lg-1">
                                     <div class="caption hmone">
-                                        <h5 class="thin custom-font">Fitout</h5>
+                                        <h5 class="thin custom-font">Studio1 Creators</h5>
                                         <h1 data-splitting><a href="/projects/fitout/">
-                                                Services
+                                                Fitout Services
                                             </a></h1>
                                         <p class="mt-10">Design is intelligence made visible that creates value faster than costs.</p>
                                         <a href="/projects/fitout/" class="btn-curve btn-bord btn-lit mt-30">
@@ -112,7 +112,8 @@
             <div class="row">
                 <div class="col-lg-5">
                     <div class="exp-img wow fadeInUp" data-wow-delay=".3s">
-                        <div class="img bg-img wow imago" data-background="{{ public_path().'/img/exp02.jpg' }}">
+                        <div class="img bg-img wow imago" data-background="">
+                            <!--{{ public_path().'/img/exp02.jpg' }}-->
                             <div class="since custom-font">
                                 <!--<span>Since</span>
                                 <span>2020</span>-->
@@ -127,8 +128,8 @@
                 <div class="col-lg-7 valign">
                     <div class="exp-content wow fadeInUp" data-wow-delay=".3s">
                         <h6 class="sub-title">About Us</h6>
-                        <h2 class="mb-20 playfont">Best Designers <br> Architectures for You.</h2>
-                        <p class="text-justify">Studio1 Creators are recognized as a leading professional providing excellent service for all types of interior architecture and architectural design projects, well established in the United Arab Emirates, our services extend throughout the GCC region. We are in the business of designing spaces by understanding and providing solutions that consider cost, time and quality - ensuring every project is of the highest quality.</p>
+                        <h2 class="mb-20 playfont">Best Interior Designers <br> For You.</h2>
+                        <p class="text-justify">Studio1 Creators are recognized as a leading professional providing excellent service for all types of interior architecture and architectural design projects, well established in the United Arab Emirates, our services extend throughout the GCC region.<br> We are in the business of designing spaces by understanding and providing solutions that consider cost, time and quality - ensuring every project is of the highest quality.</p>
                         <div class="numbers mt-50">
                             <!--<div class="row">
                                 <div class="col-md-4">

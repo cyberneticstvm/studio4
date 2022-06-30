@@ -764,6 +764,7 @@ a, span {
       transition-delay: 1s; }
 
 .loading-text {
+  font-size: 15px;
   font-weight: 300;
   text-transform: uppercase;
   letter-spacing: 10px;
@@ -3853,3 +3854,19 @@ body {
     top: -25px; } }
 
 /* ====================== [ End Responsive ] ====================== */
+
+.floating{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  z-index:100;
+}
+
+.float-button{
+	margin-top:16px;
+}
