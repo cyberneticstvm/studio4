@@ -17,7 +17,7 @@
 </header>
 <section class="projdtal">
     <div class="justified-gallery">
-        @for($i=1; $i<=4; $i++)
+        @for($i=1; $i<=28; $i++)
             <a href="{{ public_path().'/img/portfolio/fitout/GAL'.$i.'.webp' }}">
                 <img alt="" src="{{ public_path().'/img/portfolio/fitout/GAL'.$i.'.webp' }}" />
             </a>

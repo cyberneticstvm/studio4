@@ -87,7 +87,7 @@
                         <a class="nav-link" href="/">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/">About Us</a>
+                        <a class="nav-link" href="#about">About Us</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/">Services</a>
@@ -137,7 +137,7 @@
                     <div class="item abot">
                         <div class="logo-footer mb-20">
                             <a href="#0" class="logo">
-                                <img src="{{ public_path().'/img/logo-white.png' }}" alt="">
+                                <img src="{{ public_path().'/img/logo-white1.png' }}" alt="">
                             </a>
                         </div>
                         <!--<p class="text-justify">Studio1 Creators are recognized as a leading professional providing excellent service for all types of interior architecture and architectural design projects, well established in the United Arab Emirates, our services extend throughout the GCC region. We are in the business of designing spaces by understanding and providing solutions that consider cost, time and quality - ensuring every project is of the highest quality.</p>-->
