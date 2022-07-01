@@ -71,7 +71,7 @@
         <div class="container">
 
             <!-- Logo -->
-            <a class="logo" href="#">
+            <a class="logo" href="/">
                 <img src="{{ public_path().'/img/logo-white.png' }}" alt="logo">
             </a>
 
