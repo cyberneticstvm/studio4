@@ -357,7 +357,7 @@
 
     <!-- ==================== Start contact ==================== -->
 
-    <section class="contact cont-map mt-50">
+    <section id="contact" class="contact cont-map mt-50">
         <div class="container">
             <div class="row">
                 <div class="col-lg-5 col-md-6 contact-form wow fadeInDown" data-wow-delay=".3s">
