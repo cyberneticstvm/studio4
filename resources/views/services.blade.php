@@ -35,37 +35,22 @@
     </section>
     <section class="projdtal">
         <div class="container-fluid">
-            <marquee direction="left" scrollamount="12">
-                <div class="justified-gallery">
-                    <a href="#">
-                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/1.jpg' }}"/>
-                    </a>
-                    <a href="#">
-                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/2.jpg' }}" />
-                    </a>
-                    <a href="#">
-                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/3.jpg' }}" />
-                    </a>
-                    <a href="#">
-                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/4.jpg' }}" />
-                    </a>
-                    <a href="#">
-                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/5.jpg' }}" />
-                    </a>
-                    <a href="#">
-                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/6.jpg' }}" />
-                    </a>
-                    <a href="#">
-                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/7.jpg' }}" />
-                    </a>
-                    <a href="#">
-                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/8.jpg' }}" />
-                    </a>
-                    <a href="#">
-                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/9.jpg' }}" />
-                    </a>
+            <div class="swiper mySwiper">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <img src="{{ public_path().'/img/portfolio/masonry/1.jpg' }}" />
+                    </div>
+                    <div class="swiper-slide"><img src="{{ public_path().'/img/portfolio/masonry/1.jpg' }}" /></div>
+                    <div class="swiper-slide"><img src="{{ public_path().'/img/portfolio/masonry/2.jpg' }}" /></div>
+                    <div class="swiper-slide"><img src="{{ public_path().'/img/portfolio/masonry/3.jpg' }}" /></div>
+                    <div class="swiper-slide"><img src="{{ public_path().'/img/portfolio/masonry/4.jpg' }}" /></div>
+                    <div class="swiper-slide"><img src="{{ public_path().'/img/portfolio/masonry/5.jpg' }}" /></div>
+                    <div class="swiper-slide"><img src="{{ public_path().'/img/portfolio/masonry/6.jpg' }}" /></div>
+                    <div class="swiper-slide"><img src="{{ public_path().'/img/portfolio/masonry/7.jpg' }}" /></div>
+                    <div class="swiper-slide"><img src="{{ public_path().'/img/portfolio/masonry/8.jpg' }}" /></div>
+                    <div class="swiper-slide"><img src="{{ public_path().'/img/portfolio/masonry/9.jpg' }}" /></div>
                 </div>
-            </marquee>
+            </div>    
         </div>
     </section>
 

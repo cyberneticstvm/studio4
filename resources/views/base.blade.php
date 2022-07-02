@@ -29,8 +29,6 @@
 
     <link href="{{ public_path().'/css/twentytwenty.css' }}" rel="stylesheet" type="text/css" />
 
-    <link rel="stylesheet" href="{{ public_path().'/dist/fullpage.css' }}" />
-    <link rel="stylesheet" href="{{ public_path().'/dist/examples.css' }}" />
     <!-- Core Style Css -->
     <link rel="stylesheet" href="{{ public_path().'/css/style.css' }}" />
 
@@ -226,9 +224,6 @@
     <!-- plugins -->
     <script src="{{ public_path().'/js/plugins.js' }}"></script>
 
-    <script src="{{ public_path().'/dist/fullpage.js' }}"></script>
-    <script src="{{ public_path().'/dist/examples.js' }}"></script>
-
     <!-- custom scripts -->
     <script src="{{ public_path().'/js/scripts.js' }}"></script>
 
@@ -236,6 +231,22 @@
     <script async defer
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDUU5FZiF5WLFFfgIC1n64Zr0zfpQZjBBg&callback=initMap">
         </script>
+
+    <script>
+        var swiper = new Swiper(".mySwiper", {
+            slidesPerView: 5,
+            grid: {
+            rows: 3,
+            },
+            spaceBetween: 30,
+            loop: true,
+            autoplay: {
+            delay: 0,
+            disableOnInteraction: false
+            },
+            speed: 1500,
+        });
+    </script>
 </body>
 
 </html>
