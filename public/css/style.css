@@ -3870,10 +3870,6 @@ body {
 .float-button{
 	margin-top:16px;
 }
-.fade-in{
-  animation: fadeIn 5s;
-}
-@keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
+.swiper-container-free-mode > .swiper-wrapper{
+  transition-timing-function : linear;
 }

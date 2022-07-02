@@ -211,7 +211,7 @@
 
     <!-- ==================== End Footer ==================== -->
 
-    <a href="https://api.whatsapp.com/send?phone=0971506525592&text=Hi." class="floating" target="_blank">
+    <a href="https://api.whatsapp.com/send?phone=0971562329233&text=Hi." class="floating" target="_blank">
     <img src="{{ public_path().'/img/whatsapp.png' }}" alt="logo"></a>
 
 
@@ -236,7 +236,7 @@
         var swiper = new Swiper(".mySwiper", {
             slidesPerView: 5,
             grid: {
-            rows: 3,
+            rows: 2,
             },
             spaceBetween: 30,
             loop: true,
@@ -245,6 +245,7 @@
             disableOnInteraction: false
             },
             speed: 1500,
+            freeMode: true,
         });
     </script>
 </body>

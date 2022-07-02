@@ -21,21 +21,21 @@
                     <p class="text-justify">We understand the value of meaningful aesthetics and building relationships with a variety of client’s collaborative experience and supervision within the interior projects team to visualize and translate ideas based on a balanced mix of creativity and adherence to design standards.</p>
                 </div>
                 <div class="col-md-12 mt-3">
-                    <h6 class="fade-in">Commercial Building Interiors</h6>
-                    <h6 class="fade-in">Residential Interiors</h6>
-                    <h6 class="fade-in">Food & Beverage Interiors</h6>
-                    <h6 class="fade-in">SPA</h6>
-                    <h6 class="fade-in">Hospital Interiors</h6>
-                    <h6 class="fade-in">FF&E</h6>
-                    <h6 class="fade-in">Private Villas</h6>
-                    <h6 class="fade-in">Palaces</h6>
+                    <h6 class="wow flipInX">Commercial Building Interiors</h6>
+                    <h6 class="wow flipInX">Residential Interiors</h6>
+                    <h6 class="wow flipInX">Food & Beverage Interiors</h6>
+                    <h6 class="wow flipInX">SPA</h6>
+                    <h6 class="wow flipInX">Hospital Interiors</h6>
+                    <h6 class="wow flipInX">FF&E</h6>
+                    <h6 class="wow flipInX">Private Villas</h6>
+                    <h6 class="wow flipInX">Palaces</h6>
                 </div>
             </div>
         </div>
     </section>
     <section class="projdtal">
         <div class="container-fluid">
-            <div class="swiper mySwiper">
+            <div class="swiper mySwiper swiper-container-free-mode">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <img src="{{ public_path().'/img/portfolio/masonry/1.jpg' }}" />
@@ -49,6 +49,7 @@
                     <div class="swiper-slide"><img src="{{ public_path().'/img/portfolio/masonry/7.jpg' }}" /></div>
                     <div class="swiper-slide"><img src="{{ public_path().'/img/portfolio/masonry/8.jpg' }}" /></div>
                     <div class="swiper-slide"><img src="{{ public_path().'/img/portfolio/masonry/9.jpg' }}" /></div>
+                    <div class="swiper-slide"><img src="{{ public_path().'/img/portfolio/masonry/10.jpg' }}" /></div>
                 </div>
             </div>    
         </div>
