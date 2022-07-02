@@ -138,7 +138,7 @@
                 <div class="col-lg-3">
                     <div class="item abot">
                         <div class="logo-footer mb-20">
-                            <a href="#0" class="logo">
+                            <a href="/" class="logo">
                                 <img src="{{ public_path().'/img/logo-white1.png' }}" alt="">
                             </a>
                         </div>
@@ -236,14 +236,6 @@
     <script async defer
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDUU5FZiF5WLFFfgIC1n64Zr0zfpQZjBBg&callback=initMap">
         </script>
-    <script type="text/javascript">
-        var myFullpage = new fullpage('#fullpage', {
-            verticalCentered: false,
-
-            //to avoid problems with css3 transforms and fixed elements in Chrome, as detailed here: https://github.com/alvarotrigo/fullPage.js/issues/208
-            css3:false
-        });
-    </script>
 </body>
 
 </html>

@@ -406,7 +406,7 @@ $(window).on("load", function () {
 
     $('.gallery').isotope({
         itemSelector: '.items',
-      });
+    });
 
     var $gallery = $('.gallery').isotope();
 
