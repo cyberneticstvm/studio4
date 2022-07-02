@@ -20,7 +20,28 @@
                     <p class="text-justify">Our capability to recognize challenges and offering solutions is second to none and we prioritize our people, clients and end users as the essentials in every decision.</p>
                     <p class="text-justify">We understand the value of meaningful aesthetics and building relationships with a variety of client’s collaborative experience and supervision within the interior projects team to visualize and translate ideas based on a balanced mix of creativity and adherence to design standards.</p>
                 </div>
-                <div class="col-md-12 mt-3">
+            </div>
+        </div>
+    </section>
+
+
+    <section class="projdtal">
+        <div class="container-fluid">
+            <div class="swiper mySwiper swiper-container-free-mode">
+                <div class="swiper-wrapper">
+                    @for($i=1; $i<=39; $i++)
+                    <div class="swiper-slide">
+                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/GAL'.$i.'.webp' }}" />
+                    </div>
+                    @endfor
+                </div>
+            </div>    
+        </div>
+    </section>
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
                     <h6 class="wow flipInX">Commercial Building Interiors</h6>
                     <h6 class="wow flipInX">Residential Interiors</h6>
                     <h6 class="wow flipInX">Food & Beverage Interiors</h6>
@@ -31,27 +52,6 @@
                     <h6 class="wow flipInX">Palaces</h6>
                 </div>
             </div>
-        </div>
-    </section>
-    <section class="projdtal">
-        <div class="container-fluid">
-            <div class="swiper mySwiper swiper-container-free-mode">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <img src="{{ public_path().'/img/portfolio/masonry/1.jpg' }}" />
-                    </div>
-                    <div class="swiper-slide"><img src="{{ public_path().'/img/portfolio/masonry/1.jpg' }}" /></div>
-                    <div class="swiper-slide"><img src="{{ public_path().'/img/portfolio/masonry/2.jpg' }}" /></div>
-                    <div class="swiper-slide"><img src="{{ public_path().'/img/portfolio/masonry/3.jpg' }}" /></div>
-                    <div class="swiper-slide"><img src="{{ public_path().'/img/portfolio/masonry/4.jpg' }}" /></div>
-                    <div class="swiper-slide"><img src="{{ public_path().'/img/portfolio/masonry/5.jpg' }}" /></div>
-                    <div class="swiper-slide"><img src="{{ public_path().'/img/portfolio/masonry/6.jpg' }}" /></div>
-                    <div class="swiper-slide"><img src="{{ public_path().'/img/portfolio/masonry/7.jpg' }}" /></div>
-                    <div class="swiper-slide"><img src="{{ public_path().'/img/portfolio/masonry/8.jpg' }}" /></div>
-                    <div class="swiper-slide"><img src="{{ public_path().'/img/portfolio/masonry/9.jpg' }}" /></div>
-                    <div class="swiper-slide"><img src="{{ public_path().'/img/portfolio/masonry/10.jpg' }}" /></div>
-                </div>
-            </div>    
         </div>
     </section>
 
