@@ -23,9 +23,23 @@
             </div>
         </div>
     </section>
-
-
-    <section class="projdtal">
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h6 class="wow flipInX">=> Commercial Building Interiors</h6><br>
+                    <h6 class="wow flipInX">=> Residential Interiors</h6><br>
+                    <h6 class="wow flipInX">=> Food & Beverage Interiors</h6><br>
+                    <h6 class="wow flipInX">=> SPA</h6><br>
+                    <h6 class="wow flipInX">=> Hospital Interiors</h6><br>
+                    <h6 class="wow flipInX">=> FF&E</h6><br>
+                    <h6 class="wow flipInX">=> Private Villas</h6><br>
+                    <h6 class="wow flipInX">=> Palaces</h6>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="section-padding">
         <div class="container-fluid">
             <div class="swiper mySwiper swiper-container-free-mode">
                 <div class="swiper-wrapper">
@@ -36,22 +50,6 @@
                     @endfor
                 </div>
             </div>    
-        </div>
-    </section>
-    <section>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <h6 class="wow flipInX">Commercial Building Interiors</h6>
-                    <h6 class="wow flipInX">Residential Interiors</h6>
-                    <h6 class="wow flipInX">Food & Beverage Interiors</h6>
-                    <h6 class="wow flipInX">SPA</h6>
-                    <h6 class="wow flipInX">Hospital Interiors</h6>
-                    <h6 class="wow flipInX">FF&E</h6>
-                    <h6 class="wow flipInX">Private Villas</h6>
-                    <h6 class="wow flipInX">Palaces</h6>
-                </div>
-            </div>
         </div>
     </section>
 
