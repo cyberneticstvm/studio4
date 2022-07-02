@@ -38,22 +38,31 @@
             <marquee direction="left" scrollamount="12">
                 <div class="justified-gallery">
                     <a href="#">
-                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/gal1.jpg' }}"/>
+                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/1.jpg' }}"/>
                     </a>
                     <a href="#">
-                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/gal2.jpg' }}" />
+                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/2.jpg' }}" />
                     </a>
                     <a href="#">
-                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/gal3.jpg' }}" />
+                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/3.jpg' }}" />
                     </a>
                     <a href="#">
-                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/gal4.jpg' }}" />
+                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/4.jpg' }}" />
                     </a>
                     <a href="#">
-                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/gal5.jpg' }}" />
+                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/5.jpg' }}" />
                     </a>
                     <a href="#">
-                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/gal6.jpg' }}" />
+                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/6.jpg' }}" />
+                    </a>
+                    <a href="#">
+                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/7.jpg' }}" />
+                    </a>
+                    <a href="#">
+                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/8.jpg' }}" />
+                    </a>
+                    <a href="#">
+                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/9.jpg' }}" />
                     </a>
                 </div>
             </marquee>
