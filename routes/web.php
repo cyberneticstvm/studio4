@@ -18,8 +18,8 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/about/', function () {
-    return view('index');
+Route::get('/services/', function () {
+    return view('services');
 });
 
 Route::get('/send-mail/', [EmailController::class, 'index']);

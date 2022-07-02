@@ -29,6 +29,8 @@
 
     <link href="{{ public_path().'/css/twentytwenty.css' }}" rel="stylesheet" type="text/css" />
 
+    <link rel="stylesheet" href="{{ public_path().'/dist/fullpage.css' }}" />
+    <link rel="stylesheet" href="{{ public_path().'/dist/examples.css' }}" />
     <!-- Core Style Css -->
     <link rel="stylesheet" href="{{ public_path().'/css/style.css' }}" />
 
@@ -90,7 +92,7 @@
                         <a class="nav-link" href="#about">About Us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/">Services</a>
+                        <a class="nav-link" href="/services/">Services</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button"
@@ -224,6 +226,9 @@
     <!-- plugins -->
     <script src="{{ public_path().'/js/plugins.js' }}"></script>
 
+    <script src="{{ public_path().'/dist/fullpage.js' }}"></script>
+    <script src="{{ public_path().'/dist/examples.js' }}"></script>
+
     <!-- custom scripts -->
     <script src="{{ public_path().'/js/scripts.js' }}"></script>
 
@@ -231,7 +236,14 @@
     <script async defer
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDUU5FZiF5WLFFfgIC1n64Zr0zfpQZjBBg&callback=initMap">
         </script>
+    <script type="text/javascript">
+        var myFullpage = new fullpage('#fullpage', {
+            verticalCentered: false,
 
+            //to avoid problems with css3 transforms and fixed elements in Chrome, as detailed here: https://github.com/alvarotrigo/fullPage.js/issues/208
+            css3:false
+        });
+    </script>
 </body>
 
 </html>

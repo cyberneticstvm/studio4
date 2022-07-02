@@ -3870,3 +3870,92 @@ body {
 .float-button{
 	margin-top:16px;
 }
+
+h1{
+  font-size: 5em;
+  font-family: arial,helvetica;
+  color: #fff;
+  margin:0;
+  padding:0;
+  top: 50%;
+  transform: translateY(-50%);
+  position: relative;
+}
+
+/* Centered texts in each section
+* --------------------------------------- */
+.section{
+  text-align:center;
+}
+
+
+/* Backgrounds will cover all the section
+* --------------------------------------- */
+#section0,
+#section1,
+#section2,
+#section3,
+  #slide1,
+  #slide2{
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+/* Defining each sectino background and styles
+* --------------------------------------- */
+#section0 #slide01{
+  background-image: url(../img/portfolio/interior/gal1/GAL2.webp);
+}
+#section0 #slide02{
+  background-image: url(../img/portfolio/interior/gal1/GAL5.webp);
+}
+#section0 #slide03{
+  background-image: url(../img/portfolio/interior/gal1/GAL6.webp);
+}
+
+#section1 #slide01{
+  background-image: url(../img/portfolio/architecture/GAL1.webp);
+}
+#section1 #slide02{
+  background-image: url(../img/portfolio/architecture/GAL2.webp);
+}
+#section1 #slide03{
+  background-image: url(../img/portfolio/architecture/GAL5.webp);
+}
+
+#section2 #slide01{
+  background-image: url(../img/portfolio/landscape/GAL2.webp);
+}
+#section2 #slide02{
+  background-image: url(../img/portfolio/landscape/GAL4.webp);
+}
+#section2 #slide03{
+  background-image: url(../img/portfolio/landscape/GAL5.webp);
+}
+
+#section3 #slide01{
+  background-image: url(../img/portfolio/fitout/GAL1.webp);
+}
+#section3 #slide02{
+  background-image: url(../img/portfolio/fitout/GAL5.webp);
+}
+#section3 #slide03{
+  background-image: url(../img/portfolio/fitout/GAL6.webp);
+}
+/*#section0 h1{
+  top: 50%;
+  transform: translateY(-50%);
+  position: relative;
+}
+#section2{
+  background-image: url(imgs/bg3.jpg);
+  padding: 6% 0 0 0;
+}
+#section3{
+  background-image: url(imgs/bg4.jpg);
+  padding: 6% 0 0 0;
+}*/
+
+/*Adding background for the slides
+* --------------------------------------- */
