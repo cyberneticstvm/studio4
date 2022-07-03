@@ -4,6 +4,9 @@
 
     <!-- ==================== Start Services ==================== -->
 
+    <video autoplay muted loop id="myVideo">
+        <source src="{{ public_path().'/video/video.mp4' }}" type="video/mp4">
+    </video>
     <section class="services section-padding bg-dark">
         <div class="container">
             <div class="section-head text-center">
@@ -25,7 +28,7 @@
             </div>
         </div>
     </section>
-    <section>
+    <section class="">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">

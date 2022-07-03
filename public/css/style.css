@@ -3873,3 +3873,11 @@ body {
 .swiper-container-free-mode > .swiper-wrapper{
   transition-timing-function : linear;
 }
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  opacity: .3;
+}
