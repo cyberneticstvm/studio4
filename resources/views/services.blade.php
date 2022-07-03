@@ -41,15 +41,15 @@
                 </div>
                 <div class="col-md-12 mt-5">
                 <h5 class="playfont wow fadeInDown">Services in detail:</h5><br>
-                    <h6 class="playfont wow flipInX">=> Commercial Interior Design</h6><br>
-                    <h6 class="playfont wow flipInX">=> Residential Interior Design</h6><br>
-                    <h6 class="playfont wow flipInX">=> Hospital/Health Care Interior Design</h6><br>
-                    <h6 class="playfont wow flipInX">=> Architectural Residential  Designs </h6><br>
-                    <h6 class="playfont wow flipInX">=> Private Villas Interior and Landscaping</h6><br>
-                    <h6 class="playfont wow flipInX">=> Palaces Interior and Landscaping</h6><br>
-                    <h6 class="playfont wow flipInX">=> Food & Beverage Interiors</h6><br>
-                    <h6 class="playfont wow flipInX">=> SPA & Swimming pool Designs</h6><br>
-                    <h6 class="playfont wow flipInX">=> FF & E</h6>
+                    <h6 class="playfont wow flipInX">Commercial Interior Design</h6><br>
+                    <h6 class="playfont wow flipInX">Residential Interior Design</h6><br>
+                    <h6 class="playfont wow flipInX">Hospital/Health Care Interior Design</h6><br>
+                    <h6 class="playfont wow flipInX">Architectural Residential  Designs </h6><br>
+                    <h6 class="playfont wow flipInX">Private Villas Interior and Landscaping</h6><br>
+                    <h6 class="playfont wow flipInX">Palaces Interior and Landscaping</h6><br>
+                    <h6 class="playfont wow flipInX">Food & Beverage Interiors</h6><br>
+                    <h6 class="playfont wow flipInX">SPA & Swimming pool Designs</h6><br>
+                    <h6 class="playfont wow flipInX">FF & E</h6>
                 </div>
             </div>
         </div>
