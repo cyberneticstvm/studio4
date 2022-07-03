@@ -30,29 +30,17 @@
                     <p class="text-justify">Our capability to recognize challenges and offering solutions is second to none and we prioritize our people, clients and end users as the essentials in every decision.</p><br>
                     <p class="text-justify">We understand the value of meaningful aesthetics and building relationships with a variety of client’s collaborative experience and supervision within the interior projects team to visualize and translate ideas based on a balanced mix of creativity and adherence to design standards.</p>
                     <p class="text-justify">From luxury resorts to business hotels to the more relaxed private villas. We have a wealth of talents in designing hotel rooms, lobbies, Façade, common areas and F&B destinations.</p><br>
-                    <p class="text-justify">With our design team, we’re focused on delivering innovate hotel design projects. In so far as the lead interior architects on our projects, we always ask our clients to be open minded to really push the boundaries of modern hotel interiors. The greatest innovation now lies in the adaption of modern technology. With this in mind, our designs have to have a huge amount of technological integration with elegance.</p>
+                    <p class="text-justify">With our design team, we’re focused on delivering innovate hotel design projects. In so far as the lead interior architects on our projects, we always ask our clients to be open minded to really push the boundaries of modern hotel interiors. The greatest innovation now lies in the adaption of modern technology. With this in mind, our designs have to have a huge amount of technological integration with elegance.</p>                    
                 </div>
-            </div>
-        </div>
-    </section>
-    <section class="">
-        <div class="container">
-            <div class="row">
-                <p>Main Services includes:</p>
-                <div class="col-md-12">
-                    <h6 class="playfont wow flipInX">INTERIOR DESIGN</h6><br>
-                    <h6 class="playfont wow flipInX">ARCHITECTURAL DESIGN</h6><br>
-                    <h6 class="playfont wow flipInX">LANDSCAPE design</h6><br>
-                    <h6 class="playfont wow flipInX">FITOUT SERVICES</h6><br>
+                <div class="col-md-12 mt-5">
+                    <h5>Main Services includes:</h5>
+                    <h6 class="playfont wow flipInX">Interior Design</h6><br>
+                    <h6 class="playfont wow flipInX">Architectural Design</h6><br>
+                    <h6 class="playfont wow flipInX">Landsacape Design</h6><br>
+                    <h6 class="playfont wow flipInX">Fitout Services</h6><br>
                 </div>
-            </div>
-        </div>
-    </section>
-    <section class="mt-5">
-        <div class="container">
-            <div class="row">
-            <p>Services in detail:</p>
-                <div class="col-md-12">
+                <div class="col-md-12 mt-5">
+                <h5>Services in detail:</h5>
                     <h6 class="playfont wow flipInX">=> Commercial Interior Design</h6><br>
                     <h6 class="playfont wow flipInX">=> Residential Interior Design</h6><br>
                     <h6 class="playfont wow flipInX">=> Hospital/Health Care Interior Design</h6><br>
