@@ -4,16 +4,23 @@
 
     <!-- ==================== Start Services ==================== -->
 
-    <video autoplay muted loop id="myVideo">
-        <source src="{{ public_path().'/video/video.mp4' }}" type="video/mp4">
-    </video>
+    <header class="pages-header bg-img valign parallaxie" data-background="{{ public_path().'/img/portfolio/interior/gal1/GAL1.webp' }}" data-overlay-dark="5">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="cont text-center">
+                        <h1>Our Services</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
     <section class="services section-padding bg-dark">
         <div class="container">
             <div class="section-head text-center">
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-8 col-sm-10">
                         <h6 class="custom-font wow fadeInDown" data-wow-delay=".3s">Best Features</h6>
-                        <h4 class="playfont wow flipInX" data-wow-delay=".5s">Services</h4>
                     </div>
                 </div>
             </div>
