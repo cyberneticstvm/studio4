@@ -112,7 +112,8 @@
                 <div class="social-icon">
                     <a href="#0"><i class="fab fa-facebook-f"></i></a>
                     <a href="#0"><i class="fab fa-twitter"></i></a>
-                    <a href="#0"><i class="fab fa-behance"></i></a>
+                    <a href="#0"><i class="fab fa-pinterest-p"></i></a>
+                    <a href="#0"><i class="fab fa-instagram"></i></a>
                 </div>
                 <!--<div class="search">
                     <span class="icon pe-7s-search cursor-pointer"></span>
@@ -147,8 +148,8 @@
                         <div class="social-icon">
                             <a href="#0"><i class="fab fa-facebook-f"></i></a>
                             <a href="#0"><i class="fab fa-twitter"></i></a>
-                            <a href="#0"><i class="fab fa-behance"></i></a>
                             <a href="#0"><i class="fab fa-pinterest-p"></i></a>
+                            <a href="#0"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                 </div>
