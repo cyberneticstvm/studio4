@@ -38,6 +38,20 @@
     <section class="">
         <div class="container">
             <div class="row">
+                <p>Main Services includes:</p>
+                <div class="col-md-12">
+                    <h6 class="playfont wow flipInX">INTERIOR DESIGN</h6><br>
+                    <h6 class="playfont wow flipInX">ARCHITECTURAL DESIGN</h6><br>
+                    <h6 class="playfont wow flipInX">LANDSCAPE design</h6><br>
+                    <h6 class="playfont wow flipInX">FITOUT SERVICES</h6><br>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="mt-5">
+        <div class="container">
+            <div class="row">
+            <p>Services in detail:</p>
                 <div class="col-md-12">
                     <h6 class="playfont wow flipInX">=> Commercial Interior Design</h6><br>
                     <h6 class="playfont wow flipInX">=> Residential Interior Design</h6><br>
