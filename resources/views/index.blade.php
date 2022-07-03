@@ -184,28 +184,28 @@
                     <h2 class="custom-font numb">01</h2>
                     <h6 class="mb-20 text-info">Interior</h6>
                     <p class="text-justify">We are professionals to explore a wide set of ideas and also create a shared vision.</p>
-                    <a href="/projects/interior/" class="more custom-font mt-30">View More</a>
+                    <a href="/services/" class="more custom-font mt-30">View More</a>
                 </div>
 
                 <div class="col-lg-3 col-md-6 item-bx">
                     <h2 class="custom-font numb">02</h2>
                     <h6 class="mb-20 text-info">Architectural</h6>
                     <p class="text-justify">Architecture should speak of its time and place, but yearn for timelessness. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-                    <a href="/projects/architectural/" class="more custom-font mt-30">View More</a>
+                    <a href="/services/" class="more custom-font mt-30">View More</a>
                 </div>
 
                 <div class="col-lg-3 col-md-6 item-bx">
                     <h2 class="custom-font numb">03</h2>
                     <h6 class="mb-20 text-info">Landscape</h6>
                     <p class="text-justify">In this trendy world we remain classic but focus on the detailing and fulfill your requirements.</p>
-                    <a href="/projects/landscape/" class="more custom-font mt-30">View More</a>
+                    <a href="/services/" class="more custom-font mt-30">View More</a>
                 </div>
 
                 <div class="col-lg-3 col-md-6 item-bx">
                     <h2 class="custom-font numb">04</h2>
                     <h6 class="mb-20 text-info">Fitout</h6>
                     <p class="text-justify">Design is intelligence made visible that creates value faster than costs. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-                    <a href="/projects/fitout/" class="more custom-font mt-30">View More</a>
+                    <a href="/services/" class="more custom-font mt-30">View More</a>
                 </div>
 
             </div>
