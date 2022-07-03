@@ -112,7 +112,7 @@
             <div class="row">
                 <div class="col-lg-5">
                     <div class="exp-img wow fadeInUp" data-wow-delay=".3s">
-                        <div class="img bg-img wow imago" data-background="">
+                        <div class="img bg-img wow imago" data-background="{{ public_path().'/img/exp03.webp' }}">
                             <!--{{ public_path().'/img/exp02.jpg' }}-->
                             <div class="since custom-font">
                                 <!--<span>Since</span>
@@ -129,7 +129,9 @@
                     <div class="exp-content wow fadeInUp" data-wow-delay=".3s">
                         <h6 class="sub-title">About Us</h6>
                         <h2 class="mb-20 playfont">Best Interior Designers <br> For You.</h2>
-                        <p class="text-justify">Studio1 Creators are recognized as a leading professional providing excellent service for all types of interior architecture and architectural design projects, well established in the United Arab Emirates, our services extend throughout the GCC region.<br> We are in the business of designing spaces by understanding and providing solutions that consider cost, time and quality - ensuring every project is of the highest quality.</p>
+                        <p class="text-justify">Studio1 Creators are recognized as a leading professional providing excellent service for all types of interior architecture and architectural design projects, well established in the United Arab Emirates, our services extend throughout the GCC region. We are in the business of designing spaces by understanding and providing solutions that consider cost, time and quality - ensuring every project is of the highest quality.</p>
+                        <p class="text-justify">Studio1 Creators also provides full-service interior design company providing luxury interior design and home décor services. Our services include Interior design, Architecture, Landscape and Fit-outs for residential, commercial, hospital, food & beverage units.</p>
+                        <p class="text-justify">Our team of esteemed interior designers developed a process to provide our clients with a flawless experience when designing their homes and villas. We believe that every client has unique requirements and idea, in order to support that, we the emerging Interior Designing firm in UAE, comprises of veteran team who can fulfill your dream building  by adding up the best and most elegant designs in order to become a reality. Thereby we are expecting the satisfaction of each and every Client.</p>
                         <div class="numbers mt-50">
                             <!--<div class="row">
                                 <div class="col-md-4">
