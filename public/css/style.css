@@ -3881,3 +3881,6 @@ body {
   min-height: 100%;
   opacity: .3;
 }
+.serv{
+  background-color: rgba(255, 255, 255, .5);
+}

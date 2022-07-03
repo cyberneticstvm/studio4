@@ -233,7 +233,7 @@
             <div class="row">
 
                 <!-- filter links -->
-                <div class="filtering text-center col-12 wow fadeInUp" data-wow-delay=".3s">
+                <!--<div class="filtering text-center col-12 wow fadeInUp" data-wow-delay=".3s">
                     <div class="filter bg-img bg-repeat" data-background="{{ public_path().'/img/line-pattern1.png' }}">
                         <span data-filter='*' class="active">All</span>
                         <span data-filter='.interior'>Interior</span>
@@ -241,7 +241,7 @@
                         <span data-filter='.land'>Landsacape</span>
                         <span data-filter='.fit'>Fitouts</span>
                     </div>
-                </div>
+                </div>-->
 
                 <!-- gallery -->
                 <div class="gallery twsty full-width">
@@ -255,7 +255,7 @@
                         </div>
                         <div class="info mt-10">
                             <h5>Villas, Hotels, Hospitals and Spa</h5>
-                            <span>Interior Designing</span>
+                            <span>Interior Design Projects</span>
                         </div>
                     </div>
 
@@ -267,8 +267,8 @@
                             </a>
                         </div>
                         <div class="info mt-10">
-                            <h5>Hotels & Residence</h5>
-                            <span>Architectural Designing</span>
+                            <h5>Hotels, Villas & Residence</h5>
+                            <span>Architectural Design Projects</span>
                         </div>
                     </div>
 
@@ -280,7 +280,7 @@
                             </a>
                         </div>
                         <div class="info mt-10">
-                            <h5>Hotels & Parks</h5>
+                            <h5>Hotels & Pools</h5>
                             <span>Landsacape</span>
                         </div>
                     </div>

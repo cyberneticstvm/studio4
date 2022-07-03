@@ -27,9 +27,9 @@
             <div class="row">
                 <div class="col-md-12">
                     <p class="text-justify">We offer services and solutions for interior design, background from design concept to architectural and interior design execution experience ranging from luxury, retail, food and beverage and hospitality.</p>
-                    <p class="text-justify">Our capability to recognize challenges and offering solutions is second to none and we prioritize our people, clients and end users as the essentials in every decision.</p>
+                    <p class="text-justify">Our capability to recognize challenges and offering solutions is second to none and we prioritize our people, clients and end users as the essentials in every decision.</p><br>
                     <p class="text-justify">We understand the value of meaningful aesthetics and building relationships with a variety of client’s collaborative experience and supervision within the interior projects team to visualize and translate ideas based on a balanced mix of creativity and adherence to design standards.</p>
-                    <p class="text-justify">From luxury resorts to business hotels to the more relaxed private villas. We have a wealth of talents in designing hotel rooms, lobbies, Façade, common areas and F&B destinations.</p>
+                    <p class="text-justify">From luxury resorts to business hotels to the more relaxed private villas. We have a wealth of talents in designing hotel rooms, lobbies, Façade, common areas and F&B destinations.</p><br>
                     <p class="text-justify">With our design team, we’re focused on delivering innovate hotel design projects. In so far as the lead interior architects on our projects, we always ask our clients to be open minded to really push the boundaries of modern hotel interiors. The greatest innovation now lies in the adaption of modern technology. With this in mind, our designs have to have a huge amount of technological integration with elegance.</p>
                 </div>
             </div>
@@ -52,7 +52,7 @@
             </div>
         </div>
     </section>
-    <section class="section-padding">
+    <section class="serv mt-3 pt-5">
         <div class="container-fluid">
             <div class="swiper mySwiper swiper-container-free-mode">
                 <div class="swiper-wrapper">
