@@ -112,7 +112,7 @@
             <div class="row">
                 <div class="col-lg-5">
                     <div class="exp-img wow fadeInUp" data-wow-delay=".3s">
-                        <div class="img bg-img wow imago" data-background="{{ public_path().'/img/4.webp' }}">
+                        <div class="img bg-img wow imago" data-background="{{ public_path().'/img/2.webp' }}">
                             <!--{{ public_path().'/img/exp02.jpg' }}-->
                             <div class="since custom-font">
                                 <!--<span>Since</span>
