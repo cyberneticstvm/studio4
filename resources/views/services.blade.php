@@ -33,14 +33,14 @@
                     <p class="text-justify">With our design team, we’re focused on delivering innovate hotel design projects. In so far as the lead interior architects on our projects, we always ask our clients to be open minded to really push the boundaries of modern hotel interiors. The greatest innovation now lies in the adaption of modern technology. With this in mind, our designs have to have a huge amount of technological integration with elegance.</p><br>                    
                 </div>
                 <div class="col-md-12 mt-5">
-                    <h5 class="playfont wow fadeInDown">Main Services includes:</h5>
+                    <h5 class="playfont wow fadeInDown">Main Services includes:</h5><br>
                     <h6 class="playfont wow flipInX">Interior Design</h6><br>
                     <h6 class="playfont wow flipInX">Architectural Design</h6><br>
                     <h6 class="playfont wow flipInX">Landsacape Design</h6><br>
                     <h6 class="playfont wow flipInX">Fitout Services</h6><br>
                 </div>
                 <div class="col-md-12 mt-5">
-                <h5 class="playfont wow fadeInDown">Services in detail:</h5>
+                <h5 class="playfont wow fadeInDown">Services in detail:</h5><br>
                     <h6 class="playfont wow flipInX">=> Commercial Interior Design</h6><br>
                     <h6 class="playfont wow flipInX">=> Residential Interior Design</h6><br>
                     <h6 class="playfont wow flipInX">=> Hospital/Health Care Interior Design</h6><br>
