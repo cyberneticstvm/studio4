@@ -20,7 +20,7 @@
             <div class="section-head text-center">
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-8 col-sm-10">
-                        <h6 class="custom-font wow fadeInDown" data-wow-delay=".3s">Best Features</h6>
+                    <h2 class="wow fadeInDown">Services</h2>
                     </div>
                 </div>
             </div>
@@ -32,7 +32,7 @@
                     <p class="text-justify">From luxury resorts to business hotels to the more relaxed private villas. We have a wealth of talents in designing hotel rooms, lobbies, Façade, common areas and F&B destinations.</p><br>
                     <p class="text-justify">With our design team, we’re focused on delivering innovate hotel design projects. In so far as the lead interior architects on our projects, we always ask our clients to be open minded to really push the boundaries of modern hotel interiors. The greatest innovation now lies in the adaption of modern technology. With this in mind, our designs have to have a huge amount of technological integration with elegance.</p><br>                    
                 </div>
-                <div class="col-md-12 mt-5"><h5 class="wow fadeInDown">Services:</h5><br></div>
+                <div class="col-md-12"><p>We Provide:</p></div>
                 <div class="col-md-6 mt-5">
                     <h6 class="wow flipInX">Art Consulting</h6><br>
                     <h6 class="wow flipInX">Interior Design</h6><br>
