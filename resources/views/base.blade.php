@@ -89,8 +89,20 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#about">About Us</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/services/">Services</a>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button"
+                            aria-haspopup="true" aria-expanded="false">Services</a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="/">Art Consulting</a>
+                            <a class="dropdown-item" href="/">Interior Design</a>
+                            <a class="dropdown-item" href="/">Architectural Design</a>
+                            <a class="dropdown-item" href="/">Landscape Design</a>
+                            <a class="dropdown-item" href="/">Turnkey Contract</a>
+                            <a class="dropdown-item" href="/">Food & Beverage Design</a>
+                            <a class="dropdown-item" href="/">Spa & Wellness</a>
+                            <a class="dropdown-item" href="/">FF & E</a>
+                            <a class="dropdown-item" href="/">Fit-out Services</a>
+                        </div>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button"
@@ -156,7 +168,7 @@
                 <div class="col-lg-2 offset-lg-1">
                     <div class="item usful-links">
                         <div class="fothead">
-                            <h6>Useful Links</h6>
+                            <h6>Projects</h6>
                         </div>
                         <ul>
                             <li><i class="fas fa-chevron-right"></i> <a href="/projects/interior/">Interior Design</a></li>
@@ -169,7 +181,7 @@
                 <div class="col-lg-2">
                     <div class="item fotcont">
                         <div class="fothead">
-                            <h6>Call</h6>
+                            <h6>Contact</h6>
                         </div>
                         <p>+971 506525592</p>
                     </div>
@@ -177,7 +189,7 @@
                 <div class="col-lg-2">
                     <div class="item fotcont">
                         <div class="fothead">
-                            <h6>Write</h6>
+                            <h6>Email</h6>
                         </div>
                         <p>info@studio1creators.com</p>
                     </div>

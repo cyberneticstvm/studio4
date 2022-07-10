@@ -22,8 +22,8 @@
                     <span data-filter='*' class="active">All</span>
                     <span data-filter='.hot'>Hotel & Residences</span>
                     <span data-filter='.hos'>Hospitals</span>
-                    <span data-filter='.cafe'>Cafe</span>
-                    <span data-filter='.villa'>Villa</span>
+                    <span data-filter='.cafe'>Food & Beverages</span>
+                    <span data-filter='.villa'>Private Villas</span>
                 </div>
             </div>
 
@@ -77,7 +77,7 @@
                         </a>
                     </div>
                     <div class="info mt-10">
-                        <h5 class="text-dark">Hospital</h5>
+                        <h5 class="text-dark">Oriana Hospital</h5>
                         <span>Interior Design</span>
                     </div>
                 </div>
@@ -90,7 +90,7 @@
                         </a>
                     </div>
                     <div class="info mt-10">
-                        <h5 class="text-dark">Cafe</h5>
+                        <h5 class="text-dark">Food & Beverages</h5>
                         <span>Interior Design</span>
                     </div>
                 </div>
@@ -103,7 +103,7 @@
                         </a>
                     </div>
                     <div class="info mt-10">
-                        <h5 class="text-dark">Villa</h5>
+                        <h5 class="text-dark">Private Villas</h5>
                         <span>Interior Design</span>
                     </div>
                 </div>

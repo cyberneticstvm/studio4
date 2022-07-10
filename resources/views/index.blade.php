@@ -254,7 +254,7 @@
                             </a>
                         </div>
                         <div class="info mt-10">
-                            <h5>Villas, Hotels, Hospitals and Spa</h5>
+                            <h5>Private Villas, Hotels, Hospitals and Spa</h5>
                             <span>Interior Design Projects</span>
                         </div>
                     </div>
@@ -267,7 +267,7 @@
                             </a>
                         </div>
                         <div class="info mt-10">
-                            <h5>Hotels, Villas & Residence</h5>
+                            <h5>Hotels, Private Villas & Residence</h5>
                             <span>Architectural Design Projects</span>
                         </div>
                     </div>
