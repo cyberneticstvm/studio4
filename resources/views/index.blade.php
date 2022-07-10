@@ -245,7 +245,7 @@
 
     <!-- ==================== Start works ==================== -->
 
-    <section class="portfolio section-padding">
+ <!--    <section class="portfolio section-padding">
         <div class="container-fluid">
             <div class="container">
                 <div class="section-head text-center">
@@ -258,22 +258,8 @@
                 </div>
             </div>
             <div class="row">
-
-                <!-- filter links -->
-                <!--<div class="filtering text-center col-12 wow fadeInUp" data-wow-delay=".3s">
-                    <div class="filter bg-img bg-repeat" data-background="{{ public_path().'/img/line-pattern1.png' }}">
-                        <span data-filter='*' class="active">All</span>
-                        <span data-filter='.interior'>Interior</span>
-                        <span data-filter='.arch'>Architectural</span>
-                        <span data-filter='.land'>Landsacape</span>
-                        <span data-filter='.fit'>Fitouts</span>
-                    </div>
-                </div>-->
-
-                <!-- gallery -->
                 <div class="gallery twsty full-width">
 
-                    <!-- gallery item -->
                     <div class="items interior mt-50 wow fadeInUp" data-wow-delay=".3s">
                         <div class="item-img bg-img wow imago" data-background="{{ public_path().'/img/slid/interior.webp' }}">
                             <a href="/projects/interior/">
@@ -286,7 +272,6 @@
                         </div>
                     </div>
 
-                    <!-- gallery item -->
                     <div class="items arch mt-50 wow fadeInUp" data-wow-delay=".3s">
                         <div class="item-img bg-img wow imago" data-background="{{ public_path().'/img/slid/architecture.webp' }}">
                             <a href="/projects/architectural/">
@@ -299,7 +284,6 @@
                         </div>
                     </div>
 
-                    <!-- gallery item -->
                     <div class="items land mt-50 wow fadeInUp" data-wow-delay=".3s">
                         <div class="item-img bg-img wow imago" data-background="{{ public_path().'/img/slid/landscape.webp' }}">
                             <a href="/projects/landscape/">
@@ -312,7 +296,6 @@
                         </div>
                     </div>
 
-                    <!-- gallery item -->
                     <div class="items fit theaters mt-50 wow fadeInUp" data-wow-delay=".3s">
                         <div class="item-img bg-img wow imago" data-background="{{ public_path().'/img/slid/fitout.webp' }}">
                             <a href="/projects/fitout/">
@@ -329,7 +312,7 @@
 
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- ==================== End works ==================== -->
 
