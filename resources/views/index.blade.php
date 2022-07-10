@@ -128,7 +128,7 @@
                 <div class="col-lg-7 valign">
                     <div class="exp-content wow fadeInUp" data-wow-delay=".3s">
                         <h6 class="sub-title">About Us</h6>
-                        <h2 class="mb-20 playfont">Best Interior Designers <br> For You.</h2>
+                        <h2 class="mb-20">Best Interior Designers <br> For You.</h2>
                         <p class="text-justify">Studio1 Creators are recognized as a leading professional providing excellent service for all types of interior architecture and architectural design projects, well established in the United Arab Emirates, our services extend throughout the GCC region. We are in the business of designing spaces by understanding and providing solutions that consider cost, time and quality - ensuring every project is of the highest quality.</p>
                         <p class="text-justify">Studio1 Creators also provides full-service interior design company providing luxury interior design and home décor services. Our services include Interior design, Architecture, Landscape and Fit-outs for residential, commercial, hospital, food & beverage units.</p>
                         <div class="numbers mt-50">
@@ -174,7 +174,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-8 col-sm-10">
                         <h6 class="custom-font wow fadeInDown" data-wow-delay=".3s">Best Features</h6>
-                        <h4 class="playfont wow flipInX" data-wow-delay=".5s">Our Services</h4>
+                        <h4 class="wow flipInX" data-wow-delay=".5s">Our Services</h4>
                     </div>
                 </div>
             </div>
@@ -182,55 +182,55 @@
 
                 <div class="col-lg-3 col-md-6 item-bx">
                     <h2 class="custom-font numb">01</h2>
-                    <h6 class="mb-20 text-info">Interior</h6>
+                    <h6 class="mb-20 text-info">Art Consulting</h6>
                     <p class="text-justify">We are professionals to explore a wide set of ideas and also create a shared vision.</p>
                     <a href="/services/" class="more custom-font mt-30">View More</a>
                 </div>
 
                 <div class="col-lg-3 col-md-6 item-bx">
                     <h2 class="custom-font numb">02</h2>
-                    <h6 class="mb-20 text-info">Architectural</h6>
+                    <h6 class="mb-20 text-info">Interior Design</h6>
                     <p class="text-justify">Architecture should speak of its time and place, but yearn for timelessness. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
                     <a href="/services/" class="more custom-font mt-30">View More</a>
                 </div>
 
                 <div class="col-lg-3 col-md-6 item-bx">
                     <h2 class="custom-font numb">03</h2>
-                    <h6 class="mb-20 text-info">Landscape</h6>
+                    <h6 class="mb-20 text-info">Architectural Design</h6>
                     <p class="text-justify">In this trendy world we remain classic but focus on the detailing and fulfill your requirements.</p>
                     <a href="/services/" class="more custom-font mt-30">View More</a>
                 </div>
 
                 <div class="col-lg-3 col-md-6 item-bx">
                     <h2 class="custom-font numb">04</h2>
-                    <h6 class="mb-20 text-info">Fitout</h6>
+                    <h6 class="mb-20 text-info">Landscape Design</h6>
                     <p class="text-justify">Design is intelligence made visible that creates value faster than costs. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
                     <a href="/services/" class="more custom-font mt-30">View More</a>
                 </div>
                 <div class="col-lg-3 col-md-6 item-bx">
-                    <h2 class="custom-font numb">01</h2>
-                    <h6 class="mb-20 text-info">Interior</h6>
+                    <h2 class="custom-font numb">05</h2>
+                    <h6 class="mb-20 text-info">Turnkey Contract</h6>
                     <p class="text-justify">We are professionals to explore a wide set of ideas and also create a shared vision.</p>
                     <a href="/services/" class="more custom-font mt-30">View More</a>
                 </div>
 
                 <div class="col-lg-3 col-md-6 item-bx">
-                    <h2 class="custom-font numb">02</h2>
-                    <h6 class="mb-20 text-info">Architectural</h6>
+                    <h2 class="custom-font numb">06</h2>
+                    <h6 class="mb-20 text-info">Food & Beverage</h6>
                     <p class="text-justify">Architecture should speak of its time and place, but yearn for timelessness. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
                     <a href="/services/" class="more custom-font mt-30">View More</a>
                 </div>
 
                 <div class="col-lg-3 col-md-6 item-bx">
-                    <h2 class="custom-font numb">03</h2>
-                    <h6 class="mb-20 text-info">Landscape</h6>
+                    <h2 class="custom-font numb">07</h2>
+                    <h6 class="mb-20 text-info">Spa & Wellness</h6>
                     <p class="text-justify">In this trendy world we remain classic but focus on the detailing and fulfill your requirements.</p>
                     <a href="/services/" class="more custom-font mt-30">View More</a>
                 </div>
 
                 <div class="col-lg-3 col-md-6 item-bx">
-                    <h2 class="custom-font numb">04</h2>
-                    <h6 class="mb-20 text-info">Fitout</h6>
+                    <h2 class="custom-font numb">08</h2>
+                    <h6 class="mb-20 text-info">FF & E</h6>
                     <p class="text-justify">Design is intelligence made visible that creates value faster than costs. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
                     <a href="/services/" class="more custom-font mt-30">View More</a>
                 </div>
@@ -245,14 +245,14 @@
 
     <!-- ==================== Start works ==================== -->
 
- <!--    <section class="portfolio section-padding">
+     <section class="portfolio section-padding">
         <div class="container-fluid">
             <div class="container">
                 <div class="section-head text-center">
                     <div class="row justify-content-center">
                         <div class="col-lg-6 col-md-8 col-sm-10">
                             <h6 class="custom-font wow fadeInDown" data-wow-delay=".3s">Best Works</h6>
-                            <h4 class="playfont wow flipInX" data-wow-delay=".5s">Our Projects</h4>
+                            <h4 class="wow flipInX" data-wow-delay=".5s">Our Projects</h4>
                         </div>
                     </div>
                 </div>
@@ -312,7 +312,7 @@
 
             </div>
         </div>
-    </section> -->
+    </section>
 
     <!-- ==================== End works ==================== -->
 
@@ -326,7 +326,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-8 col-sm-10">
                         <h6 class="custom-font wow fadeInDown" data-wow-delay=".3s">Best Skills</h6>
-                        <h4 class="playfont wow flipInX" data-wow-delay=".5s">Best Skills</h4>
+                        <h4 class="wow flipInX" data-wow-delay=".5s">Best Skills</h4>
                     </div>
                 </div>
             </div>

@@ -1,6 +1,6 @@
 @extends("base")
 @section("content")
-<header class="pages-header work-header bg-img bg-dark valign" data-background="{{ public_path().'/img/portfolio/architecture/1.webp' }}" data-overlay-light="7">
+<!--<header class="pages-header work-header bg-img bg-dark valign" data-background="{{ public_path().'/img/portfolio/architecture/1.webp' }}" data-overlay-light="7">
     <div class="container">
         <div class="section-head text-center mb-0">
             <div class="row justify-content-center">
@@ -11,7 +11,7 @@
             </div>
         </div>
     </div>
-</header>
+</header>-->
 <section class="portfolio section-padding">
     <div class="container">
         <div class="row">

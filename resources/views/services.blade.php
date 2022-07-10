@@ -4,7 +4,7 @@
 
     <!-- ==================== Start Services ==================== -->
 
-    <header class="pages-header bg-img valign parallaxie" data-background="{{ public_path().'/img/portfolio/interior/gal1/GAL1.webp' }}" data-overlay-dark="5">
+    <!--<header class="pages-header bg-img valign parallaxie" data-background="{{ public_path().'/img/portfolio/interior/gal1/GAL1.webp' }}" data-overlay-dark="5">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -14,7 +14,7 @@
                 </div>
             </div>
         </div>
-    </header>
+    </header>-->
     <section class="services section-padding bg-dark">
         <div class="container">
             <div class="section-head text-center">
@@ -32,19 +32,19 @@
                     <p class="text-justify">From luxury resorts to business hotels to the more relaxed private villas. We have a wealth of talents in designing hotel rooms, lobbies, Façade, common areas and F&B destinations.</p><br>
                     <p class="text-justify">With our design team, we’re focused on delivering innovate hotel design projects. In so far as the lead interior architects on our projects, we always ask our clients to be open minded to really push the boundaries of modern hotel interiors. The greatest innovation now lies in the adaption of modern technology. With this in mind, our designs have to have a huge amount of technological integration with elegance.</p><br>                    
                 </div>
-                <div class="col-md-12 mt-5"><h5 class="playfont wow fadeInDown">Services:</h5><br></div>
+                <div class="col-md-12 mt-5"><h5 class="wow fadeInDown">Services:</h5><br></div>
                 <div class="col-md-6 mt-5">
-                    <h6 class="playfont wow flipInX">Art Consulting</h6><br>
-                    <h6 class="playfont wow flipInX">Interior Design</h6><br>
-                    <h6 class="playfont wow flipInX">Architectural Design</h6><br>
-                    <h6 class="playfont wow flipInX">Landscape Design</h6><br>
-                    <h6 class="playfont wow flipInX">Turnkey Contract</h6>
+                    <h6 class="wow flipInX">Art Consulting</h6><br>
+                    <h6 class="wow flipInX">Interior Design</h6><br>
+                    <h6 class="wow flipInX">Architectural Design</h6><br>
+                    <h6 class="wow flipInX">Landscape Design</h6><br>
+                    <h6 class="wow flipInX">Turnkey Contract</h6>
                 </div>
                 <div class="col-md-6 mt-5">
-                    <h6 class="playfont wow flipInX">Food & Beverage Design</h6><br>
-                    <h6 class="playfont wow flipInX">Spa & Wellness</h6><br>
-                    <h6 class="playfont wow flipInX">FF & E</h6><br>
-                    <h6 class="playfont wow flipInX">Fit-out Services</h6>
+                    <h6 class="wow flipInX">Food & Beverage Design</h6><br>
+                    <h6 class="wow flipInX">Spa & Wellness</h6><br>
+                    <h6 class="wow flipInX">FF & E</h6><br>
+                    <h6 class="wow flipInX">Fit-out Services</h6>
                 </div>
             </div>
         </div>
@@ -53,9 +53,9 @@
         <div class="container-fluid">
             <div class="swiper mySwiper swiper-container-free-mode">
                 <div class="swiper-wrapper">
-                    @for($i=1; $i<=39; $i++)
+                    @for($i=1; $i<=12; $i++)
                     <div class="swiper-slide">
-                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/GAL'.$i.'.webp' }}" />
+                        <img alt="" src="{{ public_path().'/img/portfolio/masonry/gal1/GAL'.$i.'.webp' }}" />
                     </div>
                     @endfor
                 </div>
