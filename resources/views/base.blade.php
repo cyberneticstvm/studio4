@@ -89,7 +89,10 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#about">About Us</a>
                     </li>
-                    <li class="nav-item dropdown">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/services/">Services</a>
+                    </li>
+                    <!--<li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button"
                             aria-haspopup="true" aria-expanded="false">Services</a>
                         <div class="dropdown-menu">
@@ -103,7 +106,7 @@
                             <a class="dropdown-item" href="/">FF & E</a>
                             <a class="dropdown-item" href="/">Fit-out Services</a>
                         </div>
-                    </li>
+                    </li>-->
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button"
                             aria-haspopup="true" aria-expanded="false">Projects</a>

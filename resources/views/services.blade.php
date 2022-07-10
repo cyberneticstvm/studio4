@@ -39,22 +39,24 @@
                     <h6 class="playfont wow flipInX">Landsacape Design</h6><br>
                     <h6 class="playfont wow flipInX">Fitout Services</h6><br>
                 </div>
-                <div class="col-md-12 mt-5">
-                <h5 class="playfont wow fadeInDown">Services in detail:</h5><br>
-                    <h6 class="playfont wow flipInX">Commercial Interior Design</h6><br>
-                    <h6 class="playfont wow flipInX">Residential Interior Design</h6><br>
-                    <h6 class="playfont wow flipInX">Hospital/Health Care Interior Design</h6><br>
-                    <h6 class="playfont wow flipInX">Architectural Residential  Designs </h6><br>
-                    <h6 class="playfont wow flipInX">Private Villas Interior and Landscaping</h6><br>
-                    <h6 class="playfont wow flipInX">Palaces Interior and Landscaping</h6><br>
-                    <h6 class="playfont wow flipInX">Food & Beverage Interiors</h6><br>
-                    <h6 class="playfont wow flipInX">SPA & Swimming pool Designs</h6><br>
-                    <h6 class="playfont wow flipInX">FF & E</h6>
+                <div class="col-md-12 mt-5"><h5 class="playfont wow fadeInDown">Services in detail:</h5><br></div>
+                <div class="col-md-6 mt-5">
+                    <h6 class="playfont wow flipInX">Art Consulting</h6><br>
+                    <h6 class="playfont wow flipInX">Interior Design</h6><br>
+                    <h6 class="playfont wow flipInX">Architectural Design</h6><br>
+                    <h6 class="playfont wow flipInX">Landscape Design</h6><br>
+                    <h6 class="playfont wow flipInX">Turnkey Contract</h6>
+                </div>
+                <div class="col-md-6 mt-5">
+                    <h6 class="playfont wow flipInX">Food & Beverage Design</h6><br>
+                    <h6 class="playfont wow flipInX">Spa & Wellness</h6><br>
+                    <h6 class="playfont wow flipInX">FF & E</h6><br>
+                    <h6 class="playfont wow flipInX">Fit-out Services</h6>
                 </div>
             </div>
         </div>
     </section>
-    <section class="serv mt-3 pt-5">
+    <section class="mt-3 pt-5">
         <div class="container-fluid">
             <div class="swiper mySwiper swiper-container-free-mode">
                 <div class="swiper-wrapper">
