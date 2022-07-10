@@ -17,7 +17,7 @@
 </header>-->
 <section class="projdtal section-padding">
     <div class="justified-gallery">
-        @for($i=1; $i<=45; $i++)
+        @for($i=1; $i<=44; $i++)
             <a href="{{ public_path().'/img/portfolio/interior/gal1/GAL'.$i.'.webp' }}">
                 <img alt="" src="{{ public_path().'/img/portfolio/interior/gal1/GAL'.$i.'.webp' }}" />
             </a>
