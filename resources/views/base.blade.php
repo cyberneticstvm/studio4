@@ -169,16 +169,19 @@
                     </div>
                 </div>
                 <div class="col-lg-2 offset-lg-1">
-                    <div class="item usful-links">
+                    <div class="item fotcont">
                         <div class="fothead">
-                            <h6>Projects</h6>
+                            <h6>Services</h6>
                         </div>
-                        <ul>
-                            <li><i class="fas fa-chevron-right"></i> <a href="/projects/interior/">Interior Design</a></li>
-                            <li><i class="fas fa-chevron-right"></i> <a href="/projects/architectural/">Architectural</a></li>
-                            <li><i class="fas fa-chevron-right"></i> <a href="/projects/landscape/">Landscape</a></li>
-                            <li><i class="fas fa-chevron-right"></i> <a href="/projects/fitout/">Fitout Services</a></li>
-                        </ul>
+                        <p><a href="/services/">Art Consulting</a></p>
+                        <p><a href="/services/">Interior Design</a></p>
+                        <p><a href="/services/">Architectural Design</a></p>
+                        <p><a href="/services/">Landscape Design</a></p>
+                        <p><a href="/services/">Turnkey Contract</a></p>
+                        <p><a href="/services/">Food & Beverage Design</a></p>
+                        <p><a href="/services/">Spa & Wellness</a></p>
+                        <p><a href="/services/">FF & E</a></p>
+                        <p><a href="/services/">Fit-out Services</a></p>
                     </div>
                 </div>
                 <div class="col-lg-2">
@@ -200,7 +203,7 @@
                 <div class="col-lg-2">
                     <div class="item fotcont">
                         <div class="fothead">
-                            <h6>Visit</h6>
+                            <h6>Address</h6>
                         </div>
                         <p>Studio1 Creators</p>
                         <p>Office No. 1502<br> City Tower-2,</p>
