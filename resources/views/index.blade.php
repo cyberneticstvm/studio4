@@ -182,50 +182,50 @@
 
                 <div class="col-lg-3 col-md-6 item-bx">
                     <h2 class="custom-font numb">01</h2>
-                    <h6 class="mb-20 text-info">Art Consulting</h6>
-                    <p class="text-justify">It’s the art of evaluating client needs, develop a prototype and create pleasing designs. </p>
-                    <a href="/services/" class="more custom-font mt-30">View More</a>
-                </div>
-
-                <div class="col-lg-3 col-md-6 item-bx">
-                    <h2 class="custom-font numb">02</h2>
                     <h6 class="mb-20 text-info">Interior Design</h6>
                     <p class="text-justify">We are professionals to explore a wide set of ideas and also create a shared vision. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
                     <a href="/services/" class="more custom-font mt-30">View More</a>
                 </div>
 
                 <div class="col-lg-3 col-md-6 item-bx">
-                    <h2 class="custom-font numb">03</h2>
+                    <h2 class="custom-font numb">02</h2>
                     <h6 class="mb-20 text-info">Architectural Design</h6>
                     <p class="text-justify">Architecture should speak of its time and place, but yearn for timelessness and ..</p>
                     <a href="/services/" class="more custom-font mt-30">View More</a>
                 </div>
 
                 <div class="col-lg-3 col-md-6 item-bx">
-                    <h2 class="custom-font numb">04</h2>
+                    <h2 class="custom-font numb">03</h2>
                     <h6 class="mb-20 text-info">Landscape Design</h6>
                     <p class="text-justify">In this trendy world we remain classic but focus on the detailing and fulfill your requirements. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
                     <a href="/services/" class="more custom-font mt-30">View More</a>
                 </div>
                 <!--Design is intelligence made visible that creates value faster than costs.-->
                 <div class="col-lg-3 col-md-6 item-bx">
-                    <h2 class="custom-font numb">05</h2>
+                    <h2 class="custom-font numb">04</h2>
                     <h6 class="mb-20 text-info">Turnkey Contract</h6>
-                    <p class="text-justify">We are capable of managing all kinds of design projects.</p>
+                    <p class="text-justify">We are capable of managing all kinds of design projects. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
                     <a href="/services/" class="more custom-font mt-30">View More</a>
                 </div>
 
                 <div class="col-lg-3 col-md-6 item-bx">
-                    <h2 class="custom-font numb">06</h2>
+                    <h2 class="custom-font numb">05</h2>
                     <h6 class="mb-20 text-info">Food & Beverage</h6>
                     <p class="text-justify">Our motto is to provide you complete exposure in the F&B outlets..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
                     <a href="/services/" class="more custom-font mt-30">View More</a>
                 </div>
 
                 <div class="col-lg-3 col-md-6 item-bx">
-                    <h2 class="custom-font numb">07</h2>
+                    <h2 class="custom-font numb">06</h2>
                     <h6 class="mb-20 text-info">Spa & Wellness</h6>
                     <p class="text-justify">The concept & genre of Wellness Spa Design is determined by the ...</p>
+                    <a href="/services/" class="more custom-font mt-30">View More</a>
+                </div>
+
+                <div class="col-lg-3 col-md-6 item-bx">
+                    <h2 class="custom-font numb">07</h2>
+                    <h6 class="mb-20 text-info">Art Consulting</h6>
+                    <p class="text-justify">It’s the art of evaluating client needs, develop a prototype and create... </p>
                     <a href="/services/" class="more custom-font mt-30">View More</a>
                 </div>
 
