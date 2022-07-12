@@ -87,7 +87,7 @@
                         <a class="nav-link" href="/">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#about">About Us</a>
+                        <a class="nav-link" href="/about/">About Us</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/services/">Services</a>
@@ -173,13 +173,13 @@
                         <div class="fothead">
                             <h6>Services</h6>
                         </div>
-                        <p><a href="/services/">Art Consulting</a></p>
                         <p><a href="/services/">Interior Design</a></p>
                         <p><a href="/services/">Architectural Design</a></p>
                         <p><a href="/services/">Landscape Design</a></p>
                         <p><a href="/services/">Turnkey Contract</a></p>
                         <p><a href="/services/">Food & Beverage Design</a></p>
                         <p><a href="/services/">Spa & Wellness</a></p>
+                        <p><a href="/services/">Art Consulting</a></p>
                         <p><a href="/services/">FF & E</a></p>
                         <p><a href="/services/">Fit-out Services</a></p>
                     </div>
