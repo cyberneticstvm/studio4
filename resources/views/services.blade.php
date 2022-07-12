@@ -37,7 +37,7 @@
                     <h6 class="wow flipInX">Interior Design</h6><br>
                     <h6 class="wow flipInX">Architectural Design</h6><br>
                     <h6 class="wow flipInX">Landscape Design</h6><br>
-                    <h6 class="wow flipInX">Turnkey Contract</h6>
+                    <h6 class="wow flipInX">Turnkey Contract</h6><br>
                     <h6 class="wow flipInX">Food & Beverage Design</h6>
                 </div>
                 <div class="col-md-6 mt-5">                    
