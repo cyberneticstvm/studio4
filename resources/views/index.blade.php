@@ -246,71 +246,117 @@
 
     <!-- ==================== Start works ==================== -->
 
-     <section class="portfolio section-padding">
-        <div class="container-fluid">
-            <div class="container">
-                <div class="section-head text-center">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-6 col-md-8 col-sm-10">
-                            <h6 class="custom-font wow fadeInDown" data-wow-delay=".3s">Best Works</h6>
-                            <h4 class="wow flipInX" data-wow-delay=".5s">Our Projects</h4>
-                        </div>
-                    </div>
-                </div>
-            </div>
+    <section class="team section-padding">
+        <div class="container">
             <div class="row">
-                <div class="gallery twsty full-width">
-
-                    <div class="items interior mt-50 wow fadeInUp" data-wow-delay=".3s">
-                        <div class="item-img bg-img wow imago" data-background="{{ public_path().'/img/slid/interior.webp' }}">
-                            <a href="/projects/interior/">
-                                <div class="item-img-overlay"></div>
-                            </a>
-                        </div>
-                        <div class="info mt-10">
-                            <h5>Private Villas, Hotels, Hospitals and Spa</h5>
-                            <span>Interior Design Projects</span>
-                        </div>
-                    </div>
-
-                    <div class="items arch mt-50 wow fadeInUp" data-wow-delay=".3s">
-                        <div class="item-img bg-img wow imago" data-background="{{ public_path().'/img/slid/architecture.webp' }}">
-                            <a href="/projects/architectural/">
-                                <div class="item-img-overlay valign"></div>
-                            </a>
-                        </div>
-                        <div class="info mt-10">
-                            <h5>Hotels, Private Villas & Residence</h5>
-                            <span>Architectural Design Projects</span>
+                <div class="col-lg-5">
+                    <div class="tit">
+                        <h6 class="custom-font mb-10 wow fadeInDown" data-wow-delay=".3s">Some thoughts from Us</h6>
+                        <h3 class="wow flipInX" data-wow-delay=".3s">Our Projects</h3>
+                        <div class="navs mt-30 wow fadeInUp" data-wow-delay=".3s">
+                            <span class="prev">
+                                <i class="fas fa-long-arrow-alt-left text-dark"></i>
+                            </span>
+                            <span class="next">
+                                <i class="fas fa-long-arrow-alt-right text-dark"></i>
+                            </span>
                         </div>
                     </div>
-
-                    <div class="items land mt-50 wow fadeInUp" data-wow-delay=".3s">
-                        <div class="item-img bg-img wow imago" data-background="{{ public_path().'/img/slid/landscape.webp' }}">
-                            <a href="/projects/landscape/">
-                                <div class="item-img-overlay valign"></div>
-                            </a>
-                        </div>
-                        <div class="info mt-10">
-                            <h5>Hotels & Pools</h5>
-                            <span>Landsacape</span>
-                        </div>
-                    </div>
-
-                    <div class="items fit theaters mt-50 wow fadeInUp" data-wow-delay=".3s">
-                        <div class="item-img bg-img wow imago" data-background="{{ public_path().'/img/slid/fitout.webp' }}">
-                            <a href="/projects/fitout/">
-                                <div class="item-img-overlay valign"></div>
-                            </a>
-                        </div>
-                        <div class="info mt-10">
-                            <h5>Creative Spaces</h5>
-                            <span>Fitout Services</span>
-                        </div>
-                    </div>
-
                 </div>
-
+                <div class="col-lg-7">
+                    <div class="team-container">
+                        <div class="item wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img wow imago">
+                                <img src="img/team/1.jpg" alt="">
+                                <div class="social">
+                                    <a href="#0"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="#0"><i class="fab fa-twitter"></i></a>
+                                    <a href="#0"><i class="fab fa-behance"></i></a>
+                                    <a href="#0"><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                            </div>
+                            <div class="info">
+                                <h5>Hasib sharif</h5>
+                                <span>General Manager</span>
+                            </div>
+                        </div>
+                        <div class="item wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img wow imago">
+                                <img src="img/team/2.jpg" alt="">
+                                <div class="social">
+                                    <a href="#0"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="#0"><i class="fab fa-twitter"></i></a>
+                                    <a href="#0"><i class="fab fa-behance"></i></a>
+                                    <a href="#0"><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                            </div>
+                            <div class="info">
+                                <h5>Jonson Leo</h5>
+                                <span>Founder</span>
+                            </div>
+                        </div>
+                        <div class="item wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img wow imago">
+                                <img src="img/team/3.jpg" alt="">
+                                <div class="social">
+                                    <a href="#0"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="#0"><i class="fab fa-twitter"></i></a>
+                                    <a href="#0"><i class="fab fa-behance"></i></a>
+                                    <a href="#0"><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                            </div>
+                            <div class="info">
+                                <h5>Leio Man</h5>
+                                <span>Founder</span>
+                            </div>
+                        </div>
+                        <div class="item wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img wow imago">
+                                <img src="img/team/4.jpg" alt="">
+                                <div class="social">
+                                    <a href="#0"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="#0"><i class="fab fa-twitter"></i></a>
+                                    <a href="#0"><i class="fab fa-behance"></i></a>
+                                    <a href="#0"><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                            </div>
+                            <div class="info">
+                                <h5>Robert Front</h5>
+                                <span>CEO Founder</span>
+                            </div>
+                        </div>
+                        <div class="item wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img wow imago">
+                                <img src="img/team/5.jpg" alt="">
+                                <div class="social">
+                                    <a href="#0"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="#0"><i class="fab fa-twitter"></i></a>
+                                    <a href="#0"><i class="fab fa-behance"></i></a>
+                                    <a href="#0"><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                            </div>
+                            <div class="info">
+                                <h5>Legender Mao</h5>
+                                <span>3D Visualization</span>
+                            </div>
+                        </div>
+                        <div class="item wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img wow imago">
+                                <img src="img/team/6.jpg" alt="">
+                                <div class="social">
+                                    <a href="#0"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="#0"><i class="fab fa-twitter"></i></a>
+                                    <a href="#0"><i class="fab fa-behance"></i></a>
+                                    <a href="#0"><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                            </div>
+                            <div class="info">
+                                <h5>Matt Huk</h5>
+                                <span>3D Visualization</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
