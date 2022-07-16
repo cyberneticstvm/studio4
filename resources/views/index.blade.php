@@ -267,7 +267,7 @@
                     <div class="team-container">
                         <div class="item wow fadeInUp" data-wow-delay=".3s">
                             <div class="img wow imago">
-                                <img src="img/team/1.jpg" alt="">
+                                <img src="{{ public_path().'/img/team/1.jpg' }}" alt="">
                                 <div class="social">
                                     <a href="#0"><i class="fab fa-facebook-f"></i></a>
                                     <a href="#0"><i class="fab fa-twitter"></i></a>
@@ -282,7 +282,7 @@
                         </div>
                         <div class="item wow fadeInUp" data-wow-delay=".3s">
                             <div class="img wow imago">
-                                <img src="img/team/2.jpg" alt="">
+                                <img src="{{ public_path().'/img/team/2.jpg' }}" alt="">
                                 <div class="social">
                                     <a href="#0"><i class="fab fa-facebook-f"></i></a>
                                     <a href="#0"><i class="fab fa-twitter"></i></a>
@@ -297,7 +297,7 @@
                         </div>
                         <div class="item wow fadeInUp" data-wow-delay=".3s">
                             <div class="img wow imago">
-                                <img src="img/team/3.jpg" alt="">
+                                <img src="{{ public_path().'/img/team/3.jpg' }}" alt="">
                                 <div class="social">
                                     <a href="#0"><i class="fab fa-facebook-f"></i></a>
                                     <a href="#0"><i class="fab fa-twitter"></i></a>
@@ -312,7 +312,7 @@
                         </div>
                         <div class="item wow fadeInUp" data-wow-delay=".3s">
                             <div class="img wow imago">
-                                <img src="img/team/4.jpg" alt="">
+                                <img src="{{ public_path().'/img/team/4.jpg' }}" alt="">
                                 <div class="social">
                                     <a href="#0"><i class="fab fa-facebook-f"></i></a>
                                     <a href="#0"><i class="fab fa-twitter"></i></a>
@@ -327,7 +327,7 @@
                         </div>
                         <div class="item wow fadeInUp" data-wow-delay=".3s">
                             <div class="img wow imago">
-                                <img src="img/team/5.jpg" alt="">
+                                <img src="{{ public_path().'/img/team/5.jpg' }}" alt="">
                                 <div class="social">
                                     <a href="#0"><i class="fab fa-facebook-f"></i></a>
                                     <a href="#0"><i class="fab fa-twitter"></i></a>
@@ -342,7 +342,7 @@
                         </div>
                         <div class="item wow fadeInUp" data-wow-delay=".3s">
                             <div class="img wow imago">
-                                <img src="img/team/6.jpg" alt="">
+                                <img src="{{ public_path().'/img/team/6.jpg' }}" alt="">
                                 <div class="social">
                                     <a href="#0"><i class="fab fa-facebook-f"></i></a>
                                     <a href="#0"><i class="fab fa-twitter"></i></a>
