@@ -334,7 +334,7 @@
                             </div>
                             <div class="info">
                                 <h5>Sharjah</h5>
-                                <span>TERHAB HOTEL & RESIDENCE , JVT</span>
+                                <span>TERHAB HOTEL & RESIDENCE</span>
                             </div>
                         </div>
                         <div class="item wow fadeInUp" data-wow-delay=".3s">
@@ -343,7 +343,7 @@
                             </div>
                             <div class="info">
                                 <h5>Sharjah</h5>
-                                <span>TERHAB HOTEL & RESIDENCE , JVT</span>
+                                <span>TERHAB HOTEL & RESIDENCE</span>
                             </div>
                         </div>
                         <div class="item wow fadeInUp" data-wow-delay=".3s">
@@ -352,7 +352,7 @@
                             </div>
                             <div class="info">
                                 <h5>Sharjah</h5>
-                                <span>TERHAB HOTEL & RESIDENCE , JVT</span>
+                                <span>TERHAB HOTEL & RESIDENCE</span>
                             </div>
                         </div>
                         <div class="item wow fadeInUp" data-wow-delay=".3s">
@@ -361,7 +361,7 @@
                             </div>
                             <div class="info">
                                 <h5>Sharjah</h5>
-                                <span>TERHAB HOTEL & RESIDENCE , JVT</span>
+                                <span>TERHAB HOTEL & RESIDENCE</span>
                             </div>
                         </div>
                         <div class="item wow fadeInUp" data-wow-delay=".3s">
