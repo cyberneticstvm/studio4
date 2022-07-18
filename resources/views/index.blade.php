@@ -267,92 +267,218 @@
                     <div class="team-container">
                         <div class="item wow fadeInUp" data-wow-delay=".3s">
                             <div class="img wow imago">
-                                <img src="{{ public_path().'/img/team/1.jpg' }}" alt="">
-                                <div class="social">
-                                    <a href="#0"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#0"><i class="fab fa-twitter"></i></a>
-                                    <a href="#0"><i class="fab fa-behance"></i></a>
-                                    <a href="#0"><i class="fab fa-linkedin-in"></i></a>
-                                </div>
+                                <img src="{{ public_path().'/img/projects/dubai/1.webp' }}" alt="">                                
                             </div>
                             <div class="info">
-                                <h5>Hasib sharif</h5>
-                                <span>General Manager</span>
+                                <h5>Dubai</h5>
+                                <span>TERHAB HOTEL & RESIDENCE , JVT</span>
                             </div>
                         </div>
                         <div class="item wow fadeInUp" data-wow-delay=".3s">
                             <div class="img wow imago">
-                                <img src="{{ public_path().'/img/team/2.jpg' }}" alt="">
-                                <div class="social">
-                                    <a href="#0"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#0"><i class="fab fa-twitter"></i></a>
-                                    <a href="#0"><i class="fab fa-behance"></i></a>
-                                    <a href="#0"><i class="fab fa-linkedin-in"></i></a>
-                                </div>
+                                <img src="{{ public_path().'/img/projects/dubai/2.webp' }}" alt="">                               
                             </div>
                             <div class="info">
-                                <h5>Jonson Leo</h5>
-                                <span>Founder</span>
+                                <h5>Dubai</h5>
+                                <span>TERHAB HOTEL & RESIDENCE , JVT</span>
                             </div>
                         </div>
                         <div class="item wow fadeInUp" data-wow-delay=".3s">
                             <div class="img wow imago">
-                                <img src="{{ public_path().'/img/team/3.jpg' }}" alt="">
-                                <div class="social">
-                                    <a href="#0"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#0"><i class="fab fa-twitter"></i></a>
-                                    <a href="#0"><i class="fab fa-behance"></i></a>
-                                    <a href="#0"><i class="fab fa-linkedin-in"></i></a>
-                                </div>
+                                <img src="{{ public_path().'/img/projects/dubai/3.webp' }}" alt="">                                
                             </div>
                             <div class="info">
-                                <h5>Leio Man</h5>
-                                <span>Founder</span>
+                                <h5>Dubai</h5>
+                                <span>TERHAB HOTEL & RESIDENCE , JVT</span>
                             </div>
                         </div>
                         <div class="item wow fadeInUp" data-wow-delay=".3s">
                             <div class="img wow imago">
-                                <img src="{{ public_path().'/img/team/4.jpg' }}" alt="">
-                                <div class="social">
-                                    <a href="#0"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#0"><i class="fab fa-twitter"></i></a>
-                                    <a href="#0"><i class="fab fa-behance"></i></a>
-                                    <a href="#0"><i class="fab fa-linkedin-in"></i></a>
-                                </div>
+                                <img src="{{ public_path().'/img/projects/dubai/4.webp' }}" alt="">                                
                             </div>
                             <div class="info">
-                                <h5>Robert Front</h5>
-                                <span>CEO Founder</span>
+                                <h5>Dubai</h5>
+                                <span>TERHAB HOTEL & RESIDENCE , JVT</span>
                             </div>
                         </div>
                         <div class="item wow fadeInUp" data-wow-delay=".3s">
                             <div class="img wow imago">
-                                <img src="{{ public_path().'/img/team/5.jpg' }}" alt="">
-                                <div class="social">
-                                    <a href="#0"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#0"><i class="fab fa-twitter"></i></a>
-                                    <a href="#0"><i class="fab fa-behance"></i></a>
-                                    <a href="#0"><i class="fab fa-linkedin-in"></i></a>
-                                </div>
+                                <img src="{{ public_path().'/img/projects/dubai/5.webp' }}" alt="">                                
                             </div>
                             <div class="info">
-                                <h5>Legender Mao</h5>
-                                <span>3D Visualization</span>
+                                <h5>Dubai</h5>
+                                <span>TERHAB HOTEL & RESIDENCE , JVT</span>
                             </div>
                         </div>
                         <div class="item wow fadeInUp" data-wow-delay=".3s">
                             <div class="img wow imago">
-                                <img src="{{ public_path().'/img/team/6.jpg' }}" alt="">
-                                <div class="social">
-                                    <a href="#0"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#0"><i class="fab fa-twitter"></i></a>
-                                    <a href="#0"><i class="fab fa-behance"></i></a>
-                                    <a href="#0"><i class="fab fa-linkedin-in"></i></a>
-                                </div>
+                                <img src="{{ public_path().'/img/projects/dubai/6.webp' }}" alt="">                                
                             </div>
                             <div class="info">
-                                <h5>Matt Huk</h5>
-                                <span>3D Visualization</span>
+                                <h5>Dubai</h5>
+                                <span>TERHAB HOTEL & RESIDENCE , JVT</span>
+                            </div>
+                        </div>
+                        <div class="item wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img wow imago">
+                                <img src="{{ public_path().'/img/projects/dubai/7.webp' }}" alt="">                                
+                            </div>
+                            <div class="info">
+                                <h5>Dubai</h5>
+                                <span>TERHAB HOTEL & RESIDENCE , JVT</span>
+                            </div>
+                        </div>
+                        <div class="item wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img wow imago">
+                                <img src="{{ public_path().'/img/projects/sharjah/1.webp' }}" alt="">                                
+                            </div>
+                            <div class="info">
+                                <h5>Sharjah</h5>
+                                <span>TERHAB HOTEL & RESIDENCE , JVT</span>
+                            </div>
+                        </div>
+                        <div class="item wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img wow imago">
+                                <img src="{{ public_path().'/img/projects/sharjah/2.webp' }}" alt="">                                
+                            </div>
+                            <div class="info">
+                                <h5>Sharjah</h5>
+                                <span>TERHAB HOTEL & RESIDENCE , JVT</span>
+                            </div>
+                        </div>
+                        <div class="item wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img wow imago">
+                                <img src="{{ public_path().'/img/projects/sharjah/3.webp' }}" alt="">                                
+                            </div>
+                            <div class="info">
+                                <h5>Sharjah</h5>
+                                <span>TERHAB HOTEL & RESIDENCE , JVT</span>
+                            </div>
+                        </div>
+                        <div class="item wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img wow imago">
+                                <img src="{{ public_path().'/img/projects/sharjah/4.webp' }}" alt="">                                
+                            </div>
+                            <div class="info">
+                                <h5>Sharjah</h5>
+                                <span>TERHAB HOTEL & RESIDENCE , JVT</span>
+                            </div>
+                        </div>
+                        <div class="item wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img wow imago">
+                                <img src="{{ public_path().'/img/projects/marjan/1.webp' }}" alt="">                                
+                            </div>
+                            <div class="info">
+                                <h5>Ras-Al-Khaima</h5>
+                                <span>MARJAN ISLAND RESORT & SPA</span>
+                            </div>
+                        </div>
+                        <div class="item wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img wow imago">
+                                <img src="{{ public_path().'/img/projects/marjan/2.webp' }}" alt="">                                
+                            </div>
+                            <div class="info">
+                                <h5>Ras-Al-Khaima</h5>
+                                <span>MARJAN ISLAND RESORT & SPA</span>
+                            </div>
+                        </div>
+                        <div class="item wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img wow imago">
+                                <img src="{{ public_path().'/img/projects/marjan/3.webp' }}" alt="">                                
+                            </div>
+                            <div class="info">
+                                <h5>Ras-Al-Khaima</h5>
+                                <span>MARJAN ISLAND RESORT & SPA</span>
+                            </div>
+                        </div>
+                        <div class="item wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img wow imago">
+                                <img src="{{ public_path().'/img/projects/marjan/4.webp' }}" alt="">                                
+                            </div>
+                            <div class="info">
+                                <h5>Ras-Al-Khaima</h5>
+                                <span>MARJAN ISLAND RESORT & SPA</span>
+                            </div>
+                        </div>
+                        <div class="item wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img wow imago">
+                                <img src="{{ public_path().'/img/projects/oriana/1.webp' }}" alt="">                                
+                            </div>
+                            <div class="info">
+                                <h5>UAE</h5>
+                                <span>ORIANA HOSPITAL</span>
+                            </div>
+                        </div>
+                        <div class="item wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img wow imago">
+                                <img src="{{ public_path().'/img/projects/oriana/2.webp' }}" alt="">                                
+                            </div>
+                            <div class="info">
+                                <h5>UAE</h5>
+                                <span>ORIANA HOSPITAL</span>
+                            </div>
+                        </div>
+                        <div class="item wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img wow imago">
+                                <img src="{{ public_path().'/img/projects/villa/1.webp' }}" alt="">                                
+                            </div>
+                            <div class="info">
+                                <h5>UAE</h5>
+                                <span>PRIVATE VILLAS</span>
+                            </div>
+                        </div>
+                        <div class="item wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img wow imago">
+                                <img src="{{ public_path().'/img/projects/villa/2.webp' }}" alt="">                                
+                            </div>
+                            <div class="info">
+                                <h5>UAE</h5>
+                                <span>PRIVATE VILLAS</span>
+                            </div>
+                        </div>
+                        <div class="item wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img wow imago">
+                                <img src="{{ public_path().'/img/projects/villa/3.webp' }}" alt="">                                
+                            </div>
+                            <div class="info">
+                                <h5>UAE</h5>
+                                <span>PRIVATE VILLAS</span>
+                            </div>
+                        </div>
+                        <div class="item wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img wow imago">
+                                <img src="{{ public_path().'/img/projects/fb/1.webp' }}" alt="">                                
+                            </div>
+                            <div class="info">
+                                <h5>UAE</h5>
+                                <span>FOOD & BEVERAGES</span>
+                            </div>
+                        </div>
+                        <div class="item wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img wow imago">
+                                <img src="{{ public_path().'/img/projects/fb/2.webp' }}" alt="">                                
+                            </div>
+                            <div class="info">
+                                <h5>UAE</h5>
+                                <span>FOOD & BEVERAGES</span>
+                            </div>
+                        </div>
+                        <div class="item wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img wow imago">
+                                <img src="{{ public_path().'/img/projects/fb/3.webp' }}" alt="">                                
+                            </div>
+                            <div class="info">
+                                <h5>UAE</h5>
+                                <span>FOOD & BEVERAGES</span>
+                            </div>
+                        </div>
+                        <div class="item wow fadeInUp" data-wow-delay=".3s">
+                            <div class="img wow imago">
+                                <img src="{{ public_path().'/img/projects/fb/4.webp' }}" alt="">                                
+                            </div>
+                            <div class="info">
+                                <h5>UAE</h5>
+                                <span>FOOD & BEVERAGES</span>
                             </div>
                         </div>
                     </div>
