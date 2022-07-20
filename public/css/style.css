@@ -3884,3 +3884,6 @@ body {
 .serv{
   background-color: rgba(255, 255, 255, .5);
 }
+.color-pink{
+  color: #ed174d !important;
+}
