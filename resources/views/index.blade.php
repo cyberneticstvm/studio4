@@ -251,7 +251,6 @@
             <div class="row">
                 <div class="col-lg-5">
                     <div class="tit">
-                        <h6 class="custom-font mb-10 wow fadeInDown" data-wow-delay=".3s">Some thoughts from Us</h6>
                         <h3 class="wow flipInX" data-wow-delay=".3s">Our Projects</h3>
                         <div class="navs mt-30 wow fadeInUp" data-wow-delay=".3s">
                             <span class="prev">
