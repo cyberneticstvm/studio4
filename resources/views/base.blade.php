@@ -233,7 +233,7 @@
 
     <!-- ==================== End Footer ==================== -->
 
-    <a href="https://api.whatsapp.com/send?phone=0971562329233&text=Hi." class="floating" target="_blank">
+    <a href="https://api.whatsapp.com/send?phone=971562329233&text=Hi." class="floating" target="_blank">
     <img src="{{ public_path().'/img/whatsapp.png' }}" alt="logo"></a>
 
 
