@@ -249,7 +249,7 @@
     <section class="team section-padding">
         <div class="container">
             <div class="row">
-                <div class="col-lg-5">
+                <div class="col-lg-3">
                     <div class="tit">
                         <h3 class="wow flipInX" data-wow-delay=".3s">Our Projects</h3>
                         <div class="navs mt-30 wow fadeInUp" data-wow-delay=".3s">
@@ -262,7 +262,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-7">
+                <div class="col-lg-9">
                     <div class="team-container">
                         <div class="item wow fadeInUp" data-wow-delay=".3s">
                             <div class="img wow imago">

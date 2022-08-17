@@ -152,7 +152,7 @@
     <footer class="main-footer dark">
         <div class="container">
             <div class="row">
-                <div class="col-lg-2">
+                <div class="col-lg-3">
                     <div class="item abot">
                         <div class="logo-footer mb-20">
                             <a href="/" class="logo">
@@ -192,7 +192,7 @@
                         <p>+971 506525592</p>
                     </div>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-lg-2">
                     <div class="item fotcont">
                         <div class="fothead">
                             <h6>Email</h6>

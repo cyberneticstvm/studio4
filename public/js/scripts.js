@@ -268,7 +268,7 @@ $(function () {
     });
 
     $('.team .team-container').slick({
-        slidesToShow: 3,
+        slidesToShow: 4,
         slidesToScroll: 1,
         arrows: true,
         prevArrow: '.team .prev',
