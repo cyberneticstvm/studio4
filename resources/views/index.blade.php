@@ -12,7 +12,7 @@
                             <div class="row">
                                 <div class="col-lg-10 offset-lg-1">
                                     <div class="caption hmone">
-                                        <h5 class="thin custom-font">Studio1 Creators</h5>
+                                        <h5 class="thin custom-font">Studio 1 Creators</h5>
                                         <h1 data-splitting><a href="/projects/interior/">Interior Design</a>
                                         </h1>
                                         <p class="mt-10">We are professionals to explore a wide set of ideas and also create a shared vision <br>to move forward within a short amount of time. </p>
@@ -31,7 +31,7 @@
                             <div class="row">
                                 <div class="col-lg-10 offset-lg-1">
                                     <div class="caption hmone">
-                                        <h5 class="thin custom-font">Studio1 Creators</h5>
+                                        <h5 class="thin custom-font">Studio 1 Creators</h5>
                                         <h1 data-splitting><a href="/projects/architectural/">
                                                 Architectural Design
                                             </a></h1>
@@ -51,7 +51,7 @@
                             <div class="row">
                                 <div class="col-lg-10 offset-lg-1">
                                     <div class="caption hmone">
-                                        <h5 class="thin custom-font">Studio1 Creators</h5>
+                                        <h5 class="thin custom-font">Studio 1 Creators</h5>
                                         <h1 data-splitting><a href="/projects/landscape/">
                                                 Landscape Design
                                             </a>
@@ -72,7 +72,7 @@
                             <div class="row">
                                 <div class="col-lg-10 offset-lg-1">
                                     <div class="caption hmone">
-                                        <h5 class="thin custom-font">Studio1 Creators</h5>
+                                        <h5 class="thin custom-font">Studio 1 Creators</h5>
                                         <h1 data-splitting><a href="/projects/fitout/">
                                                 Fitout Services
                                             </a></h1>
@@ -254,10 +254,10 @@
                         <h3 class="wow flipInX" data-wow-delay=".3s">Our Projects</h3>
                         <div class="navs mt-30 wow fadeInUp" data-wow-delay=".3s">
                             <span class="prev">
-                                <i class="fas fa-long-arrow-alt-left text-dark"></i>
+                                <strong class="text-dark"><</strong>
                             </span>
                             <span class="next">
-                                <i class="fas fa-long-arrow-alt-right text-dark"></i>
+                            <strong class="text-dark">></strong>
                             </span>
                         </div>
                     </div>

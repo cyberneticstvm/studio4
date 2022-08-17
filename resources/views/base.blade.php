@@ -112,9 +112,9 @@
                             aria-haspopup="true" aria-expanded="false">Projects</a>
                         <div class="dropdown-menu">
                             <a class="dropdown-item" href="/projects/interior/">Interior Design</a>
-                            <a class="dropdown-item" href="/projects/architectural/">Architectural Design</a>
-                            <a class="dropdown-item" href="/projects/landscape/">Landscape</a>
-                            <a class="dropdown-item" href="/projects/fitout/">Fitout Services</a>
+                            <a class="dropdown-item" href="/projects/architecture/gallery/">Architectural Design</a>
+                            <a class="dropdown-item" href="/projects/landscape/gallery/">Landscape</a>
+                            <a class="dropdown-item" href="/projects/fitout/gallery/">Fitout Services</a>
                         </div>
                     </li>
                     <li class="nav-item">
@@ -152,7 +152,7 @@
     <footer class="main-footer dark">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3">
+                <div class="col-lg-2">
                     <div class="item abot">
                         <div class="logo-footer mb-20">
                             <a href="/" class="logo">
@@ -192,7 +192,7 @@
                         <p>+971 506525592</p>
                     </div>
                 </div>
-                <div class="col-lg-2">
+                <div class="col-lg-3">
                     <div class="item fotcont">
                         <div class="fothead">
                             <h6>Email</h6>
