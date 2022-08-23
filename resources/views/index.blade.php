@@ -583,7 +583,7 @@
             </div>
         </div>
         <div class="contact-map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3040.986111620221!2d55.087222972550585!3d24.98780158178485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f127c765bfb7b%3A0xac18e62af75d21df!2s!5e0!3m2!1sen!2sin!4v1655724052368!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3609.5216059108384!2d55.27981185913086!3d25.219350814819336!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f42f2c1af8d27%3A0x211c9647bcf8a3da!2sCity%20Tower%202%20-%20Trade%20Centre%20-%20Trade%20Centre%201%20-%20Dubai%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2sin!4v1661261996578!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
         <div class="bg-img" data-background="{{ public_path().'/img/002.webp' }}"></div>
     </section>

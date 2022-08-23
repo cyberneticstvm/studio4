@@ -40,7 +40,7 @@
     <!-- ==================== Start Loading ==================== -->
 
     <div id="preloader">
-        <div class="loading-text">Studio1 Creators</div>
+        <div class="loading-text">Studio 1 Creators</div>
     </div>
 
     <!-- ==================== End Loading ==================== -->
