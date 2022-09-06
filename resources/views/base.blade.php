@@ -128,7 +128,7 @@
                     <a href="#0"><i class="fab fa-facebook-f"></i></a>
                     <a href="#0"><i class="fab fa-twitter"></i></a>
                     <a href="#0"><i class="fab fa-pinterest-p"></i></a>
-                    <a href="#0"><i class="fab fa-instagram"></i></a>
+                    <a href="https://instagram.com/studio_1_creators" target="_blank"><i class="fab fa-instagram"></i></a>
                 </div>
                 <!--<div class="search">
                     <span class="icon pe-7s-search cursor-pointer"></span>
@@ -164,7 +164,7 @@
                             <a href="#0"><i class="fab fa-facebook-f"></i></a>
                             <a href="#0"><i class="fab fa-twitter"></i></a>
                             <a href="#0"><i class="fab fa-pinterest-p"></i></a>
-                            <a href="#0"><i class="fab fa-instagram"></i></a>
+                            <a href="https://instagram.com/studio_1_creators" target="_blank"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                 </div>
